@@ -2,25 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f64087d2-c947-4904-acf3-c5369159b9ca" name="Default" comment="">
-      <change afterPath="$APPLICATION_CONFIG_DIR$/options/log_highlighting.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/Tong.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Excel/Auto_Test.xls" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Excel/InterfaceCase.xls" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GetContent.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OutPut.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tools/GetLog.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tools/ReadExcel.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tools/WriteExcel.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/others.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Hello/CSV_Insert.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Hello/CSv2EXcel.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Hello/SF_BID.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Hello/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Hello/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Hello/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Hello/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hello/CSV_Insert.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Hello/CSV_Insert.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hello/CSv2EXcel.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Hello/CSv2EXcel.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Hello/IP_Excel.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Hello/IP_Excel.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Hello/IP_IN.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Hello/IP_IN.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Hello/ISP_Excel.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Hello/ISP_Excel.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hello/SF_BID.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Hello/SF_BID.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -31,11 +21,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="ReadExcel.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="ReadExcel.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Tools/ReadExcel.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="308">
               <caret line="14" column="20" lean-forward="true" selection-start-line="14" selection-start-column="20" selection-end-line="14" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Main.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Main.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="22">
+              <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
             </state>
           </provider>
         </entry>
@@ -83,7 +82,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-151" />
     <option name="y" value="16" />
     <option name="width" value="1386" />
@@ -259,8 +258,7 @@
     <configuration />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="754" extended-state="7" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19619326" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32419354" />
@@ -456,13 +454,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Main.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Tools/WriteExcel.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="242">
@@ -494,6 +485,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="308">
           <caret line="14" column="20" lean-forward="true" selection-start-line="14" selection-start-column="20" selection-end-line="14" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
         </state>
       </provider>
     </entry>
