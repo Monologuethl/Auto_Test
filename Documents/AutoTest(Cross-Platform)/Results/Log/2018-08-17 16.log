@@ -1,0 +1,942 @@
+2018-08-17 16:48:20,893 - singleThread - INFO - 开启线程： Main
+2018-08-17 16:48:20,893 - main - INFO - main执行成功！
+2018-08-17 16:48:20,908 - getValues - INFO - Loading sheet 内容网络全景图
+2018-08-17 16:48:20,908 - getValues - INFO - Loading row :1
+2018-08-17 16:48:20,909 - getValues - INFO - Loading row :2
+2018-08-17 16:48:20,909 - getValues - INFO - Loading row :3
+2018-08-17 16:48:20,909 - getValues - INFO - Loading row :4
+2018-08-17 16:48:20,909 - getValues - INFO - Loading row :5
+2018-08-17 16:48:20,909 - getValues - INFO - Loading row :6
+2018-08-17 16:48:20,909 - getValues - INFO - Loading row :7
+2018-08-17 16:48:20,909 - getValues - INFO - Loading row :8
+2018-08-17 16:48:20,910 - getValues - INFO - Loading row :9
+2018-08-17 16:48:20,910 - getValues - INFO - Loading sheet 质量分析
+2018-08-17 16:48:20,910 - getValues - INFO - Loading row :1
+2018-08-17 16:48:20,910 - getValues - INFO - Loading row :2
+2018-08-17 16:48:20,910 - getValues - INFO - Loading row :3
+2018-08-17 16:48:20,911 - getValues - INFO - Loading row :4
+2018-08-17 16:48:20,911 - getValues - INFO - Loading row :5
+2018-08-17 16:48:20,911 - getValues - INFO - Loading row :6
+2018-08-17 16:48:20,911 - getValues - INFO - Loading row :7
+2018-08-17 16:48:20,911 - getValues - INFO - Loading row :8
+2018-08-17 16:48:20,911 - getValues - INFO - Loading row :9
+2018-08-17 16:48:20,911 - getValues - INFO - Loading row :10
+2018-08-17 16:48:20,912 - getValues - INFO - Loading row :11
+2018-08-17 16:48:20,912 - getValues - INFO - Loading row :12
+2018-08-17 16:48:20,913 - getValues - INFO - Loading row :13
+2018-08-17 16:48:20,913 - getValues - INFO - Loading row :14
+2018-08-17 16:48:20,913 - getValues - INFO - Loading row :15
+2018-08-17 16:48:20,913 - getValues - INFO - Loading row :16
+2018-08-17 16:48:20,913 - getValues - INFO - Loading row :17
+2018-08-17 16:48:20,914 - getValues - INFO - Loading row :18
+2018-08-17 16:48:20,914 - getValues - INFO - Loading row :19
+2018-08-17 16:48:20,914 - getValues - INFO - Loading sheet 游戏界面
+2018-08-17 16:48:20,915 - getValues - INFO - Loading row :1
+2018-08-17 16:48:20,915 - getValues - INFO - Loading row :2
+2018-08-17 16:48:20,915 - getValues - INFO - Loading sheet 端到端定界
+2018-08-17 16:48:20,915 - getValues - INFO - Loading row :1
+2018-08-17 16:48:20,916 - getValues - INFO - Loading row :2
+2018-08-17 16:48:20,916 - getValues - INFO - Loading row :3
+2018-08-17 16:48:20,916 - getValues - INFO - Loading row :4
+2018-08-17 16:48:20,916 - getValues - INFO - Loading sheet 家客健康档案
+2018-08-17 16:48:20,916 - getValues - INFO - Loading row :1
+2018-08-17 16:48:20,916 - getValues - INFO - Loading row :2
+2018-08-17 16:48:20,917 - getValues - INFO - Loading sheet 用户终端质量管理
+2018-08-17 16:48:20,917 - getValues - INFO - Loading row :1
+2018-08-17 16:48:20,917 - getValues - INFO - Loading row :2
+2018-08-17 16:48:20,917 - getValues - INFO - Loading row :3
+2018-08-17 16:48:20,918 - getValues - INFO - Loading row :4
+2018-08-17 16:48:20,918 - getValues - INFO - Loading row :5
+2018-08-17 16:48:20,918 - getValues - INFO - Loading sheet 用户小区质量分析
+2018-08-17 16:48:20,918 - getValues - INFO - Loading row :1
+2018-08-17 16:48:20,918 - getValues - INFO - Loading row :2
+2018-08-17 16:48:20,918 - getValues - INFO - Loading row :3
+2018-08-17 16:48:20,919 - getValues - INFO - Loading sheet 接入网
+2018-08-17 16:48:20,919 - getValues - INFO - Loading row :1
+2018-08-17 16:48:20,919 - getValues - INFO - Loading row :2
+2018-08-17 16:48:20,919 - getValues - INFO - Loading sheet 城域网
+2018-08-17 16:48:20,919 - getValues - INFO - Loading row :1
+2018-08-17 16:48:20,920 - getValues - INFO - Loading row :2
+2018-08-17 16:48:20,920 - getValues - INFO - Loading sheet 网络CMNET
+2018-08-17 16:48:20,920 - getValues - INFO - Loading row :1
+2018-08-17 16:48:20,920 - getValues - INFO - Loading row :2
+2018-08-17 16:48:20,921 - getValues - INFO - Loading sheet CMNET骨干
+2018-08-17 16:48:20,921 - getValues - INFO - Loading row :1
+2018-08-17 16:48:20,921 - getValues - INFO - Loading row :2
+2018-08-17 16:48:20,921 - getValues - INFO - Loading row :3
+2018-08-17 16:48:20,921 - getValues - INFO - Loading sheet 网络关键应用系统
+2018-08-17 16:48:20,922 - getValues - INFO - Loading row :1
+2018-08-17 16:48:20,922 - getValues - INFO - Loading row :2
+2018-08-17 16:48:20,922 - getValues - INFO - Loading row :3
+2018-08-17 16:48:20,922 - getValues - INFO - Loading row :4
+2018-08-17 16:48:20,922 - getValues - INFO - Loading sheet 业务质量分析
+2018-08-17 16:48:20,922 - getValues - INFO - Loading row :1
+2018-08-17 16:48:20,922 - getValues - INFO - Loading row :2
+2018-08-17 16:48:20,923 - getValues - INFO - Loading row :3
+2018-08-17 16:48:20,923 - getValues - INFO - Loading row :4
+2018-08-17 16:48:20,923 - getValues - INFO - Loading sheet 质量地市概况
+2018-08-17 16:48:20,923 - getValues - INFO - Loading row :1
+2018-08-17 16:48:20,923 - getValues - INFO - Loading row :2
+2018-08-17 16:48:20,923 - getValues - INFO - Loading sheet 地市质量对比
+2018-08-17 16:48:20,923 - getValues - INFO - Loading row :1
+2018-08-17 16:48:20,924 - getValues - INFO - Loading row :2
+2018-08-17 16:48:20,924 - getValues - INFO - Loading row :3
+2018-08-17 16:48:20,924 - getValues - INFO - Loading sheet 质差分析
+2018-08-17 16:48:20,924 - getValues - INFO - Loading row :1
+2018-08-17 16:48:20,924 - getValues - INFO - Loading row :2
+2018-08-17 16:48:20,924 - getValues - INFO - Loading sheet 流量总览
+2018-08-17 16:48:20,924 - getValues - INFO - Loading row :1
+2018-08-17 16:48:20,925 - getValues - INFO - Loading row :2
+2018-08-17 16:48:20,925 - getValues - INFO - Loading row :3
+2018-08-17 16:48:20,925 - getValues - INFO - Loading row :4
+2018-08-17 16:48:20,925 - getValues - INFO - Loading row :5
+2018-08-17 16:48:20,926 - getValues - INFO - Loading row :6
+2018-08-17 16:48:20,926 - getValues - INFO - Loading sheet 端到端流量分析
+2018-08-17 16:48:20,927 - getValues - INFO - Loading row :1
+2018-08-17 16:48:20,927 - getValues - INFO - Loading row :2
+2018-08-17 16:48:20,927 - getValues - INFO - Loading sheet 第三方出口
+2018-08-17 16:48:20,927 - getValues - INFO - Loading row :1
+2018-08-17 16:48:20,928 - getValues - INFO - Loading sheet 服务支撑分析
+2018-08-17 16:48:20,928 - getValues - INFO - Loading row :1
+2018-08-17 16:48:20,928 - getValues - INFO - Loading row :2
+2018-08-17 16:48:20,928 - getValues - INFO - Loading row :3
+2018-08-17 16:48:20,928 - getValues - INFO - Loading row :4
+2018-08-17 16:48:20,929 - getValues - INFO - Loading row :5
+2018-08-17 16:48:20,929 - getValues - INFO - Loading row :6
+2018-08-17 16:48:20,929 - getValues - INFO - Loading row :7
+2018-08-17 16:48:20,929 - getValues - INFO - Loading row :8
+2018-08-17 16:48:20,930 - getValues - INFO - Loading row :9
+2018-08-17 16:48:20,930 - getValues - INFO - Loading row :10
+2018-08-17 16:48:20,930 - getValues - INFO - Loading sheet 投诉列表
+2018-08-17 16:48:20,930 - getValues - INFO - Loading row :1
+2018-08-17 16:48:20,930 - getValues - INFO - Loading row :2
+2018-08-17 16:48:20,931 - getValues - INFO - Loading sheet 专题分析
+2018-08-17 16:48:20,931 - getValues - INFO - Loading row :1
+2018-08-17 16:48:20,931 - getValues - INFO - Loading row :2
+2018-08-17 16:48:20,931 - getValues - INFO - Loading row :3
+2018-08-17 16:48:20,931 - getValues - INFO - Loading sheet 导流平台
+2018-08-17 16:48:20,931 - getValues - INFO - Loading row :1
+2018-08-17 16:48:20,931 - getValues - INFO - Loading row :2
+2018-08-17 16:48:20,931 - getValues - INFO - Loading row :3
+2018-08-17 16:48:20,932 - getValues - INFO - Loading sheet 排障页面
+2018-08-17 16:48:20,932 - getValues - INFO - Loading row :1
+2018-08-17 16:48:20,932 - getValues - INFO - Loading row :2
+2018-08-17 16:48:20,932 - getValues - INFO - Loading row :3
+2018-08-17 16:48:20,932 - getValues - INFO - Load completion
+2018-08-17 16:48:20,933 - autoTest - INFO - 正在测试接口数据... 已完成：0.0%
+2018-08-17 16:48:20,938 - requestData - INFO - request url(timeout = 30): http://120.209.138.229:3015/VixtelRest?subInterface=getNetworkFlowData&beginTime=1534341600&endTime=1534428000
+2018-08-17 16:48:21,134 - analysisDate - ERROR - ['flowPerGCost = 2.43 not in range [0.0,1.0)', 'flowSpeedAvg = 3145 not in range (100.0,1000.0]']
+2018-08-17 16:48:22,161 - operationMysql - INFO - Mysql connect success!
+2018-08-17 16:48:22,167 - operationMysql - INFO - Sql operation success!
+2018-08-17 16:48:22,168 - operationMysql - INFO - Mysql connect close!
+2018-08-17 16:48:22,168 - autoTest - INFO - 正在测试接口数据... 已完成：0.6%
+2018-08-17 16:48:22,174 - requestData - INFO - request url(timeout = 30): http://120.209.138.229:3015/VixtelRest?subInterface=getUserRateData&beginTime=1534345200&endTime=1534431600
+2018-08-17 16:48:23,358 - operationMysql - INFO - Mysql connect success!
+2018-08-17 16:48:23,364 - operationMysql - INFO - Sql operation success!
+2018-08-17 16:48:23,364 - operationMysql - INFO - Mysql connect close!
+2018-08-17 16:48:23,365 - autoTest - INFO - 正在测试接口数据... 已完成：1.3%
+2018-08-17 16:48:23,367 - requestData - INFO - request url(timeout = 30): http://120.209.138.229:3015/VixtelRest?subInterface=getInternetHealthData&beginTime=1534348800&endTime=1534435200
+2018-08-17 16:48:24,532 - operationMysql - INFO - Mysql connect success!
+2018-08-17 16:48:24,537 - operationMysql - INFO - Sql operation success!
+2018-08-17 16:48:24,538 - operationMysql - INFO - Mysql connect close!
+2018-08-17 16:48:24,538 - autoTest - INFO - 正在测试接口数据... 已完成：1.9%
+2018-08-17 16:48:24,541 - requestData - INFO - request url(timeout = 30): http://120.209.138.229:3015/VixtelRest?subInterface=getUserNetData&beginTime=1534348800&endTime=1534435200
+2018-08-17 16:48:25,723 - operationMysql - INFO - Mysql connect success!
+2018-08-17 16:48:25,730 - operationMysql - INFO - Sql operation success!
+2018-08-17 16:48:25,730 - operationMysql - INFO - Mysql connect close!
+2018-08-17 16:48:25,730 - autoTest - INFO - 正在测试接口数据... 已完成：2.6%
+2018-08-17 16:48:25,733 - requestData - INFO - request url(timeout = 30): http://120.209.138.229:3015/VixtelRest?subInterface=getNetTVData&beginTime=1534348800&endTime=1534435200
+2018-08-17 16:48:26,931 - operationMysql - INFO - Mysql connect success!
+2018-08-17 16:48:26,937 - operationMysql - INFO - Sql operation success!
+2018-08-17 16:48:26,937 - operationMysql - INFO - Mysql connect close!
+2018-08-17 16:48:26,937 - autoTest - INFO - 正在测试接口数据... 已完成：3.2%
+2018-08-17 16:48:26,940 - requestData - INFO - request url(timeout = 30): http://120.209.138.229:3015/VixtelRest?subInterface=getNetworkQualityData&beginTime=1534348800&endTime=1534435200
+2018-08-17 16:48:30,115 - operationMysql - INFO - Mysql connect success!
+2018-08-17 16:48:30,121 - operationMysql - INFO - Sql operation success!
+2018-08-17 16:48:30,121 - operationMysql - INFO - Mysql connect close!
+2018-08-17 16:48:30,122 - autoTest - INFO - 正在测试接口数据... 已完成：3.9%
+2018-08-17 16:48:30,124 - requestData - INFO - request url(timeout = 30): http://120.209.138.229:3015/VixtelRest?subInterface=getNetBusinessQualityData&beginTime=1534348800&endTime=1534435200
+2018-08-17 16:48:39,991 - operationMysql - INFO - Mysql connect success!
+2018-08-17 16:48:39,997 - operationMysql - INFO - Sql operation success!
+2018-08-17 16:48:39,997 - operationMysql - INFO - Mysql connect close!
+2018-08-17 16:48:39,998 - autoTest - INFO - 正在测试接口数据... 已完成：4.5%
+2018-08-17 16:48:40,014 - requestData - INFO - request url(timeout = 30): http://120.209.138.229:3015/VixtelRest?subInterface=getUserBandWidthData&beginTime=1534348800&endTime=1534435200
+2018-08-17 16:48:41,228 - operationMysql - INFO - Mysql connect success!
+2018-08-17 16:48:41,235 - operationMysql - INFO - Sql operation success!
+2018-08-17 16:48:41,235 - operationMysql - INFO - Mysql connect close!
+2018-08-17 16:48:41,235 - autoTest - INFO - 正在测试接口数据... 已完成：5.2%
+2018-08-17 16:48:41,238 - requestData - INFO - request url(timeout = 30): http://120.209.138.229:3015/VixtelRest?subInterface=getP2PInternetTrafficViewFlowInfo&startTime=1534348800&type=all
+2018-08-17 16:48:42,451 - operationMysql - INFO - Mysql connect success!
+2018-08-17 16:48:42,456 - operationMysql - INFO - Sql operation success!
+2018-08-17 16:48:42,457 - operationMysql - INFO - Mysql connect close!
+2018-08-17 16:48:42,457 - autoTest - INFO - 正在测试接口数据... 已完成：5.8%
+2018-08-17 16:48:42,459 - requestData - INFO - request url(timeout = 30): http://120.209.138.229:3015/VixtelRest?subInterface=getOnlineUserData&beginTime=1534348800&endTime=1534435200&cityId=0
+2018-08-17 16:48:43,637 - operationMysql - INFO - Mysql connect success!
+2018-08-17 16:48:43,643 - operationMysql - INFO - Sql operation success!
+2018-08-17 16:48:43,643 - operationMysql - INFO - Mysql connect close!
+2018-08-17 16:48:43,644 - autoTest - INFO - 正在测试接口数据... 已完成：6.5%
+2018-08-17 16:48:43,647 - requestData - INFO - request url(timeout = 30): http://120.209.138.229:3015/VixtelRest?subInterface=getCityMapData&beginTime=1534348800&endTime=1534435200&cityId=0&start=0&limit=1000
+2018-08-17 16:48:45,254 - operationMysql - INFO - Mysql connect success!
+2018-08-17 16:48:45,278 - operationMysql - INFO - Sql operation success!
+2018-08-17 16:48:45,278 - operationMysql - INFO - Mysql connect close!
+2018-08-17 16:48:45,279 - autoTest - INFO - 正在测试接口数据... 已完成：7.1%
+2018-08-17 16:48:45,282 - requestData - INFO - request url(timeout = 30): http://120.209.138.229:3015/VixtelRest?subInterface=getCityLowSpeedData&beginTime=1534348800&endTime=1534435200&cityId=0
+2018-08-17 16:48:46,447 - operationMysql - INFO - Mysql connect success!
+2018-08-17 16:48:46,454 - operationMysql - INFO - Sql operation success!
+2018-08-17 16:48:46,454 - operationMysql - INFO - Mysql connect close!
+2018-08-17 16:48:46,455 - autoTest - INFO - 正在测试接口数据... 已完成：7.8%
+2018-08-17 16:48:46,458 - requestData - INFO - request url(timeout = 30): http://120.209.138.229:3015/VixtelRest?subInterface=getAccessData&beginTime=1534348800&endTime=1534435200&cityId=0
+2018-08-17 16:48:47,697 - operationMysql - INFO - Mysql connect success!
+2018-08-17 16:48:47,703 - operationMysql - INFO - Sql operation success!
+2018-08-17 16:48:47,704 - operationMysql - INFO - Mysql connect close!
+2018-08-17 16:48:47,704 - autoTest - INFO - 正在测试接口数据... 已完成：8.4%
+2018-08-17 16:48:47,710 - requestData - INFO - request url(timeout = 30): http://120.209.138.229:3015/VixtelRest?subInterface=getAreaData&beginTime=1534348800&endTime=1534435200&cityId=0
+2018-08-17 16:48:48,972 - operationMysql - INFO - Mysql connect success!
+2018-08-17 16:48:48,978 - operationMysql - INFO - Sql operation success!
+2018-08-17 16:48:48,978 - operationMysql - INFO - Mysql connect close!
+2018-08-17 16:48:48,979 - autoTest - INFO - 正在测试接口数据... 已完成：9.1%
+2018-08-17 16:48:48,982 - requestData - INFO - request url(timeout = 30): http://120.209.138.229:3015/VixtelRest?subInterface=getDnsData&beginTime=1534348800&endTime=1534435200
+2018-08-17 16:48:50,408 - operationMysql - INFO - Mysql connect success!
+2018-08-17 16:48:50,413 - operationMysql - INFO - Sql operation success!
+2018-08-17 16:48:50,413 - operationMysql - INFO - Mysql connect close!
+2018-08-17 16:48:50,414 - autoTest - INFO - 正在测试接口数据... 已完成：9.7%
+2018-08-17 16:48:50,416 - requestData - INFO - request url(timeout = 30): http://120.209.138.229:3015/VixtelRest?subInterface=getGroupData&beginTime=1534348800&endTime=1534435200
+2018-08-17 16:48:52,377 - operationMysql - INFO - Mysql connect success!
+2018-08-17 16:48:52,383 - operationMysql - INFO - Sql operation success!
+2018-08-17 16:48:52,384 - operationMysql - INFO - Mysql connect close!
+2018-08-17 16:48:52,384 - autoTest - INFO - 正在测试接口数据... 已完成：10.4%
+2018-08-17 16:48:52,387 - requestData - INFO - request url(timeout = 30): http://120.209.138.229:3015/VixtelRest?subInterface=getCmnetData&beginTime=1534348800&endTime=1534435200
+2018-08-17 16:48:54,853 - operationMysql - INFO - Mysql connect success!
+2018-08-17 16:48:54,857 - operationMysql - INFO - Sql operation success!
+2018-08-17 16:48:54,857 - operationMysql - INFO - Mysql connect close!
+2018-08-17 16:48:54,858 - autoTest - INFO - 正在测试接口数据... 已完成：11.0%
+2018-08-17 16:48:54,860 - requestData - INFO - request url(timeout = 30): http://120.209.138.229:3015/VixtelRest?subInterface=getTopWebData&beginTime=1534348800&endTime=1534435200
+2018-08-17 16:48:56,042 - operationMysql - INFO - Mysql connect success!
+2018-08-17 16:48:56,048 - operationMysql - INFO - Sql operation success!
+2018-08-17 16:48:56,048 - operationMysql - INFO - Mysql connect close!
+2018-08-17 16:48:56,048 - autoTest - INFO - 正在测试接口数据... 已完成：11.7%
+2018-08-17 16:48:56,050 - requestData - INFO - request url(timeout = 30): http://120.209.138.229:3015/VixtelRest?subInterface=getOltData&beginTime=1534348800&endTime=1534435200&cityId=0
+2018-08-17 16:48:57,241 - operationMysql - INFO - Mysql connect success!
+2018-08-17 16:48:57,246 - operationMysql - INFO - Sql operation success!
+2018-08-17 16:48:57,246 - operationMysql - INFO - Mysql connect close!
+2018-08-17 16:48:57,246 - autoTest - INFO - 正在测试接口数据... 已完成：12.3%
+2018-08-17 16:48:57,249 - requestData - INFO - request url(timeout = 30): http://120.209.138.229:3015/VixtelRest?subInterface=getBarsData&beginTime=1534348800&endTime=1534435200&cityId=0
+2018-08-17 16:48:58,435 - operationMysql - INFO - Mysql connect success!
+2018-08-17 16:48:58,439 - operationMysql - INFO - Sql operation success!
+2018-08-17 16:48:58,439 - operationMysql - INFO - Mysql connect close!
+2018-08-17 16:48:58,440 - autoTest - INFO - 正在测试接口数据... 已完成：13.0%
+2018-08-17 16:48:58,442 - requestData - INFO - request url(timeout = 30): http://120.209.138.229:3015/VixtelRest?subInterface=getRadiusData&beginTime=1534348800&endTime=1534435200
+2018-08-17 16:48:59,645 - operationMysql - INFO - Mysql connect success!
+2018-08-17 16:48:59,649 - operationMysql - INFO - Sql operation success!
+2018-08-17 16:48:59,649 - operationMysql - INFO - Mysql connect close!
+2018-08-17 16:48:59,650 - autoTest - INFO - 正在测试接口数据... 已完成：13.6%
+2018-08-17 16:48:59,652 - requestData - INFO - request url(timeout = 30): http://120.209.138.229:3015/VixtelRest?subInterface=getThirdData&beginTime=1534348800&endTime=1534435200
+2018-08-17 16:49:01,697 - operationMysql - INFO - Mysql connect success!
+2018-08-17 16:49:01,702 - operationMysql - INFO - Sql operation success!
+2018-08-17 16:49:01,702 - operationMysql - INFO - Mysql connect close!
+2018-08-17 16:49:01,702 - autoTest - INFO - 正在测试接口数据... 已完成：14.3%
+2018-08-17 16:49:01,705 - requestData - INFO - request url(timeout = 30): http://120.209.138.229:3015/VixtelRest?subInterface=getProvinceIdcData&beginTime=1534348800&endTime=1534435200
+2018-08-17 16:49:03,476 - operationMysql - INFO - Mysql connect success!
+2018-08-17 16:49:03,481 - operationMysql - INFO - Sql operation success!
+2018-08-17 16:49:03,481 - operationMysql - INFO - Mysql connect close!
+2018-08-17 16:49:03,482 - autoTest - INFO - 正在测试接口数据... 已完成：14.9%
+2018-08-17 16:49:03,484 - requestData - INFO - request url(timeout = 30): http://120.209.138.229:3015/VixtelRest?subInterface=getGameData&beginTime=1534348800&endTime=1534435200
+2018-08-17 16:49:04,859 - operationMysql - INFO - Mysql connect success!
+2018-08-17 16:49:04,865 - operationMysql - INFO - Sql operation success!
+2018-08-17 16:49:04,865 - operationMysql - INFO - Mysql connect close!
+2018-08-17 16:49:04,865 - autoTest - INFO - 正在测试接口数据... 已完成：15.6%
+2018-08-17 16:49:04,868 - requestData - INFO - request url(timeout = 30): http://120.209.138.229:3015/VixtelRest?subInterface=getLowSpeedCommunityDataByCity
+2018-08-17 16:49:06,089 - operationMysql - INFO - Mysql connect success!
+2018-08-17 16:49:06,095 - operationMysql - INFO - Sql operation success!
+2018-08-17 16:49:06,095 - operationMysql - INFO - Mysql connect close!
+2018-08-17 16:49:06,095 - autoTest - INFO - 正在测试接口数据... 已完成：16.2%
+2018-08-17 16:49:06,098 - requestData - INFO - request url(timeout = 30): http://120.209.138.229:3015/VixtelRest?subInterface=getCityMapQuality&beginTime=1534348800&endTime=1534435200&type=mobile
+2018-08-17 16:49:07,808 - operationMysql - INFO - Mysql connect success!
+2018-08-17 16:49:07,814 - operationMysql - INFO - Sql operation success!
+2018-08-17 16:49:07,815 - operationMysql - INFO - Mysql connect close!
+2018-08-17 16:49:07,815 - autoTest - INFO - 正在测试接口数据... 已完成：16.9%
+2018-08-17 16:49:07,819 - requestData - INFO - request url(timeout = 30): http://120.209.138.229:3015/VixtelRest?subInterface=getNetworkQualityData&beginTime=1534348800&endTime=1534435200
+2018-08-17 16:49:09,005 - operationMysql - INFO - Mysql connect success!
+2018-08-17 16:49:09,009 - operationMysql - INFO - Sql operation success!
+2018-08-17 16:49:09,010 - operationMysql - INFO - Mysql connect close!
+2018-08-17 16:49:09,010 - autoTest - INFO - 正在测试接口数据... 已完成：17.5%
+2018-08-17 16:49:09,012 - requestData - INFO - request url(timeout = 30): http://120.209.138.229:3015/VixtelRest?subInterface=getNetBusinessQualityData&beginTime=1534348800&endTime=1534435200
+2018-08-17 16:49:10,184 - operationMysql - INFO - Mysql connect success!
+2018-08-17 16:49:10,193 - operationMysql - INFO - Sql operation success!
+2018-08-17 16:49:10,193 - operationMysql - INFO - Mysql connect close!
+2018-08-17 16:49:10,194 - autoTest - INFO - 正在测试接口数据... 已完成：18.2%
+2018-08-17 16:49:10,196 - requestData - INFO - request url(timeout = 30): http://120.209.138.229:3019/getGameDataNode?beginTime=1534348800&endTime=1534435200
+2018-08-17 16:49:18,220 - analysisDate - ERROR - 0
+2018-08-17 16:49:19,236 - operationMysql - INFO - Mysql connect success!
+2018-08-17 16:49:19,242 - operationMysql - INFO - Sql operation success!
+2018-08-17 16:49:19,242 - operationMysql - INFO - Mysql connect close!
+2018-08-17 16:49:19,242 - autoTest - INFO - 正在测试接口数据... 已完成：18.8%
+2018-08-17 16:49:19,245 - requestData - INFO - request url(timeout = 30): http://120.209.138.229:3019/getGameResult?beginTime=1534348800&endTime=1534435200&gameType=all&operatorType=all&reportDirection=0&limit=1000
+2018-08-17 16:49:20,705 - operationMysql - INFO - Mysql connect success!
+2018-08-17 16:49:20,720 - operationMysql - INFO - Sql operation success!
+2018-08-17 16:49:20,720 - operationMysql - INFO - Mysql connect close!
+2018-08-17 16:49:20,721 - autoTest - INFO - 正在测试接口数据... 已完成：19.5%
+2018-08-17 16:49:20,723 - requestData - INFO - request url(timeout = 30): http://120.209.138.229:3019/getGameResult?beginTime=1534348800&endTime=1534435200&gameType=all&operatorType=all&reportDirection=2&limit=1000
+2018-08-17 16:49:23,719 - operationMysql - INFO - Mysql connect success!
+2018-08-17 16:49:23,726 - operationMysql - INFO - Sql operation success!
+2018-08-17 16:49:23,726 - operationMysql - INFO - Mysql connect close!
+2018-08-17 16:49:23,726 - autoTest - INFO - 正在测试接口数据... 已完成：20.1%
+2018-08-17 16:49:23,729 - requestData - INFO - request url(timeout = 5): http://120.209.138.232:3019/getP2PQOEUserDataInfo?startTime=1534348800&endTime=1534435200&isDemo=false&dataType=web&cityId=0&brasIp=&oltId=0&county=&onuSn=&communityId=0&compare=false&limit=100&start=0
+2018-08-17 16:49:28,731 - requestData - ERROR - Interface Connect Error - HTTPConnectionPool(host='120.209.138.232', port=3019): Max retries exceeded with url: /getP2PQOEUserDataInfo?startTime=1534348800&endTime=1534435200&isDemo=false&dataType=web&cityId=0&brasIp=&oltId=0&county=&onuSn=&communityId=0&compare=false&limit=100&start=0 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x000001C0EF549B70>, 'Connection to 120.209.138.232 timed out. (connect timeout=5)'))
+2018-08-17 16:49:28,732 - analysisDate - ERROR - ['接口请求异常']
+2018-08-17 16:49:29,747 - operationMysql - INFO - Mysql connect success!
+2018-08-17 16:49:29,753 - operationMysql - INFO - Sql operation success!
+2018-08-17 16:49:29,753 - operationMysql - INFO - Mysql connect close!
+2018-08-17 16:49:29,754 - autoTest - INFO - 正在测试接口数据... 已完成：20.8%
+2018-08-17 16:49:29,755 - requestData - INFO - request url(timeout = 5): http://120.209.138.232:3019/getP2PQOEUserDataInfo?startTime=1534348800&endTime=1534435200&isDemo=false&dataType=video&cityId=0&brasIp=&oltId=0&county=&onuSn=&communityId=0&compare=false&limit=100&start=0
+2018-08-17 16:49:34,757 - requestData - ERROR - Interface Connect Error - HTTPConnectionPool(host='120.209.138.232', port=3019): Max retries exceeded with url: /getP2PQOEUserDataInfo?startTime=1534348800&endTime=1534435200&isDemo=false&dataType=video&cityId=0&brasIp=&oltId=0&county=&onuSn=&communityId=0&compare=false&limit=100&start=0 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x000001C0EF55A7B8>, 'Connection to 120.209.138.232 timed out. (connect timeout=5)'))
+2018-08-17 16:49:34,758 - analysisDate - ERROR - ['接口请求异常']
+2018-08-17 16:49:35,772 - operationMysql - INFO - Mysql connect success!
+2018-08-17 16:49:35,778 - operationMysql - INFO - Sql operation success!
+2018-08-17 16:49:35,778 - operationMysql - INFO - Mysql connect close!
+2018-08-17 16:49:35,778 - autoTest - INFO - 正在测试接口数据... 已完成：21.4%
+2018-08-17 16:49:35,779 - requestData - INFO - request url(timeout = 5): http://120.209.138.232:3019/getP2PQOEIcpDataInfo?startTime=1534348800&endTime=1534435200&isDemo=false&dataType=web&icp=&compare=true&limit=100&start=0
+2018-08-17 16:49:40,782 - requestData - ERROR - Interface Connect Error - HTTPConnectionPool(host='120.209.138.232', port=3019): Max retries exceeded with url: /getP2PQOEIcpDataInfo?startTime=1534348800&endTime=1534435200&isDemo=false&dataType=web&icp=&compare=true&limit=100&start=0 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x000001C0EF5E8400>, 'Connection to 120.209.138.232 timed out. (connect timeout=5)'))
+2018-08-17 16:49:40,782 - analysisDate - ERROR - ['接口请求异常']
+2018-08-17 16:49:41,807 - operationMysql - INFO - Mysql connect success!
+2018-08-17 16:49:41,813 - operationMysql - INFO - Sql operation success!
+2018-08-17 16:49:41,813 - operationMysql - INFO - Mysql connect close!
+2018-08-17 16:49:41,814 - autoTest - INFO - 正在测试接口数据... 已完成：22.1%
+2018-08-17 16:49:41,815 - requestData - INFO - request url(timeout = 5): http://120.209.138.232:3019/getP2PQOEIcpDataInfo?startTime=1534348800&endTime=1534435200&isDemo=false&dataType=video&icp=&compare=true&limit=100&start=0
+2018-08-17 16:49:46,821 - requestData - ERROR - Interface Connect Error - HTTPConnectionPool(host='120.209.138.232', port=3019): Max retries exceeded with url: /getP2PQOEIcpDataInfo?startTime=1534348800&endTime=1534435200&isDemo=false&dataType=video&icp=&compare=true&limit=100&start=0 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x000001C0EF55AA20>, 'Connection to 120.209.138.232 timed out. (connect timeout=5)'))
+2018-08-17 16:49:46,821 - analysisDate - ERROR - ['接口请求异常']
+2018-08-17 16:49:47,826 - operationMysql - INFO - Mysql connect success!
+2018-08-17 16:49:47,832 - operationMysql - INFO - Sql operation success!
+2018-08-17 16:49:47,832 - operationMysql - INFO - Mysql connect close!
+2018-08-17 16:49:47,832 - autoTest - INFO - 正在测试接口数据... 已完成：22.7%
+2018-08-17 16:49:47,833 - requestData - INFO - request url(timeout = 5): http://120.209.138.232:3019/getP2PQOEIcpDataDetailsInfo?startTime=1534348800&endTime=1534435200&isDemo=false&dataType=web&icp=&limit=100&start=0
+2018-08-17 16:49:52,836 - requestData - ERROR - Interface Connect Error - HTTPConnectionPool(host='120.209.138.232', port=3019): Max retries exceeded with url: /getP2PQOEIcpDataDetailsInfo?startTime=1534348800&endTime=1534435200&isDemo=false&dataType=web&icp=&limit=100&start=0 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x000001C0EF549B70>, 'Connection to 120.209.138.232 timed out. (connect timeout=5)'))
+2018-08-17 16:49:52,836 - analysisDate - ERROR - ['接口请求异常']
+2018-08-17 16:49:53,852 - operationMysql - INFO - Mysql connect success!
+2018-08-17 16:49:53,858 - operationMysql - INFO - Sql operation success!
+2018-08-17 16:49:53,858 - operationMysql - INFO - Mysql connect close!
+2018-08-17 16:49:53,858 - autoTest - INFO - 正在测试接口数据... 已完成：23.4%
+2018-08-17 16:49:53,859 - requestData - INFO - request url(timeout = 5): http://120.209.138.232:3019/getP2PQOEIcpDataDetailsInfo?startTime=1534348800&endTime=1534435200&isDemo=false&dataType=video&icp=&limit=100&start=0
+2018-08-17 16:49:58,862 - requestData - ERROR - Interface Connect Error - HTTPConnectionPool(host='120.209.138.232', port=3019): Max retries exceeded with url: /getP2PQOEIcpDataDetailsInfo?startTime=1534348800&endTime=1534435200&isDemo=false&dataType=video&icp=&limit=100&start=0 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x000001C0EF4F6EB8>, 'Connection to 120.209.138.232 timed out. (connect timeout=5)'))
+2018-08-17 16:49:58,862 - analysisDate - ERROR - ['接口请求异常']
+2018-08-17 16:49:59,886 - operationMysql - INFO - Mysql connect success!
+2018-08-17 16:49:59,892 - operationMysql - INFO - Sql operation success!
+2018-08-17 16:49:59,893 - operationMysql - INFO - Mysql connect close!
+2018-08-17 16:49:59,893 - autoTest - INFO - 正在测试接口数据... 已完成：24.0%
+2018-08-17 16:49:59,894 - requestData - INFO - request url(timeout = 5): http://120.209.138.232:3019/getP2PQOEIcpSubDataDetailsInfo?startTime=1534348800&endTime=1534435200&isDemo=false&dataType=web&icp=&limit=8&page=1&start=0
+2018-08-17 16:50:04,897 - requestData - ERROR - Interface Connect Error - HTTPConnectionPool(host='120.209.138.232', port=3019): Max retries exceeded with url: /getP2PQOEIcpSubDataDetailsInfo?startTime=1534348800&endTime=1534435200&isDemo=false&dataType=web&icp=&limit=8&page=1&start=0 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x000001C0EF5FE2B0>, 'Connection to 120.209.138.232 timed out. (connect timeout=5)'))
+2018-08-17 16:50:04,897 - analysisDate - ERROR - ['接口请求异常']
+2018-08-17 16:50:05,912 - operationMysql - INFO - Mysql connect success!
+2018-08-17 16:50:05,918 - operationMysql - INFO - Sql operation success!
+2018-08-17 16:50:05,918 - operationMysql - INFO - Mysql connect close!
+2018-08-17 16:50:05,918 - autoTest - INFO - 正在测试接口数据... 已完成：24.7%
+2018-08-17 16:50:05,925 - requestData - INFO - request url(timeout = 30): http://120.209.138.229:3017/getP2PCityInfo?startTime=1534348800&endTime=1534435200&cityId=0
+2018-08-17 16:50:07,138 - operationMysql - INFO - Mysql connect success!
+2018-08-17 16:50:07,143 - operationMysql - INFO - Sql operation success!
+2018-08-17 16:50:07,143 - operationMysql - INFO - Mysql connect close!
+2018-08-17 16:50:07,144 - autoTest - INFO - 正在测试接口数据... 已完成：25.3%
+2018-08-17 16:50:07,146 - requestData - INFO - request url(timeout = 30): http://120.209.138.229:3017/getP2PCityInfo?startTime=1534348800&endTime=1534435200&cityId=all
+2018-08-17 16:50:08,301 - operationMysql - INFO - Mysql connect success!
+2018-08-17 16:50:08,307 - operationMysql - INFO - Sql operation success!
+2018-08-17 16:50:08,308 - operationMysql - INFO - Mysql connect close!
+2018-08-17 16:50:08,308 - autoTest - INFO - 正在测试接口数据... 已完成：26.0%
+2018-08-17 16:50:08,311 - requestData - INFO - request url(timeout = 30): http://120.209.138.229:3017/getTop10LowUserInfo?startTime=1534348800&endTime=1534435200&isDemo=0&cityId=0
+2018-08-17 16:50:09,458 - operationMysql - INFO - Mysql connect success!
+2018-08-17 16:50:09,463 - operationMysql - INFO - Sql operation success!
+2018-08-17 16:50:09,463 - operationMysql - INFO - Mysql connect close!
+2018-08-17 16:50:09,463 - autoTest - INFO - 正在测试接口数据... 已完成：26.6%
+2018-08-17 16:50:09,466 - requestData - INFO - request url(timeout = 30): http://120.209.138.229:3015/VixtelRest?subInterface=getHGUIndexInfo&beginTime=1534348800&endTime=1534435200
+2018-08-17 16:50:10,637 - operationMysql - INFO - Mysql connect success!
+2018-08-17 16:50:10,642 - operationMysql - INFO - Sql operation success!
+2018-08-17 16:50:10,643 - operationMysql - INFO - Mysql connect close!
+2018-08-17 16:50:10,643 - autoTest - INFO - 正在测试接口数据... 已完成：27.3%
+2018-08-17 16:50:10,646 - requestData - INFO - request url(timeout = 30): http://120.209.138.229:3015/VixtelRest?subInterface=getHGUProbeInstallation
+2018-08-17 16:50:11,824 - operationMysql - INFO - Mysql connect success!
+2018-08-17 16:50:11,830 - operationMysql - INFO - Sql operation success!
+2018-08-17 16:50:11,830 - operationMysql - INFO - Mysql connect close!
+2018-08-17 16:50:11,831 - autoTest - INFO - 正在测试接口数据... 已完成：27.9%
+2018-08-17 16:50:11,833 - requestData - INFO - request url(timeout = 30): http://120.209.138.229:3015/VixtelRest?subInterface=getHGUIndexView&beginTime=1534348800&endTime=1534435200&timeInterval=3600&comparetype=day&type=trend&hguVendor=&cityId=0
+2018-08-17 16:50:13,019 - operationMysql - INFO - Mysql connect success!
+2018-08-17 16:50:13,025 - operationMysql - INFO - Sql operation success!
+2018-08-17 16:50:13,025 - operationMysql - INFO - Mysql connect close!
+2018-08-17 16:50:13,025 - autoTest - INFO - 正在测试接口数据... 已完成：28.6%
+2018-08-17 16:50:13,028 - requestData - INFO - request url(timeout = 30): http://120.209.138.229:3015/VixtelRest?subInterface=getGatewayListInfo&beginTime=1534348800&endTime=1534435200&timeInterval=3600&cityId=0&deviceid=&page=1&start=0&limit=10
+2018-08-17 16:50:13,219 - analysisDate - ERROR - ['程序内部执行出错']
+2018-08-17 16:50:14,233 - operationMysql - INFO - Mysql connect success!
+2018-08-17 16:50:14,239 - operationMysql - INFO - Sql operation success!
+2018-08-17 16:50:14,239 - operationMysql - INFO - Mysql connect close!
+2018-08-17 16:50:14,239 - autoTest - INFO - 正在测试接口数据... 已完成：29.2%
+2018-08-17 16:50:14,242 - requestData - INFO - request url(timeout = 30): http://120.209.138.229:3015/VixtelRest?subInterface=getHGUQualityBadList&beginTime=1534348800&endTime=1534435200&timeInterval=3600&hguVendor=&type=cpurate&cityId=0&page=1&start=0&limit=10
+2018-08-17 16:50:14,440 - analysisDate - ERROR - ['Data is null']
+2018-08-17 16:50:15,445 - operationMysql - INFO - Mysql connect success!
+2018-08-17 16:50:15,451 - operationMysql - INFO - Sql operation success!
+2018-08-17 16:50:15,451 - operationMysql - INFO - Mysql connect close!
+2018-08-17 16:50:15,452 - autoTest - INFO - 正在测试接口数据... 已完成：29.9%
+2018-08-17 16:50:15,454 - requestData - INFO - request url(timeout = 30): http://120.209.138.229:3015/VixtelRest?subInterface=getHGUQualityBadList&beginTime=1534348800&endTime=1534435200&timeInterval=3600&hguVendor=&type=weaklight&cityId=0&page=1&start=0&limit=10
+2018-08-17 16:50:15,656 - analysisDate - ERROR - ['Data is null']
+2018-08-17 16:50:16,672 - operationMysql - INFO - Mysql connect success!
+2018-08-17 16:50:16,679 - operationMysql - INFO - Sql operation success!
+2018-08-17 16:50:16,679 - operationMysql - INFO - Mysql connect close!
+2018-08-17 16:50:16,679 - autoTest - INFO - 正在测试接口数据... 已完成：30.5%
+2018-08-17 16:50:16,682 - requestData - INFO - request url(timeout = 30): http://120.209.138.229:3015/VixtelRest?subInterface=getHGUQualityBadList&beginTime=1534348800&endTime=1534435200&timeInterval=3600&hguVendor=&type=ramrate&cityId=0&page=1&start=0&limit=10
+2018-08-17 16:50:16,868 - analysisDate - ERROR - ['Data is null']
+2018-08-17 16:50:17,884 - operationMysql - INFO - Mysql connect success!
+2018-08-17 16:50:17,889 - operationMysql - INFO - Sql operation success!
+2018-08-17 16:50:17,889 - operationMysql - INFO - Mysql connect close!
+2018-08-17 16:50:17,890 - autoTest - INFO - 正在测试接口数据... 已完成：31.2%
+2018-08-17 16:50:17,897 - requestData - INFO - request url(timeout = 30): http://120.209.138.229:3015/VixtelRest?subInterface=getCompareData&beginTime=1534348800&endTime=1534435200&cityId=0
+2018-08-17 16:50:19,081 - operationMysql - INFO - Mysql connect success!
+2018-08-17 16:50:19,087 - operationMysql - INFO - Sql operation success!
+2018-08-17 16:50:19,087 - operationMysql - INFO - Mysql connect close!
+2018-08-17 16:50:19,087 - autoTest - INFO - 正在测试接口数据... 已完成：31.8%
+2018-08-17 16:50:19,089 - requestData - INFO - request url(timeout = 30): http://120.209.138.229:3015/VixtelRest?subInterface=getUserQualityTrendData&beginTime=1534348800&endTime=1534435200&cityId=0&bandwidth=
+2018-08-17 16:50:19,236 - analysisDate - ERROR - ['Data is null']
+2018-08-17 16:50:20,263 - operationMysql - INFO - Mysql connect success!
+2018-08-17 16:50:20,269 - operationMysql - INFO - Sql operation success!
+2018-08-17 16:50:20,269 - operationMysql - INFO - Mysql connect close!
+2018-08-17 16:50:20,270 - autoTest - INFO - 正在测试接口数据... 已完成：32.5%
+2018-08-17 16:50:20,272 - requestData - INFO - request url(timeout = 30): http://120.209.138.229:3015/VixtelRest?subInterface=getUserQualityCompareData&beginTime=1534348800&endTime=1534435200&cityId=0&bandwidth=
+2018-08-17 16:50:20,465 - analysisDate - ERROR - ['Data is null']
+2018-08-17 16:50:21,470 - operationMysql - INFO - Mysql connect success!
+2018-08-17 16:50:21,476 - operationMysql - INFO - Sql operation success!
+2018-08-17 16:50:21,476 - operationMysql - INFO - Mysql connect close!
+2018-08-17 16:50:21,476 - autoTest - INFO - 正在测试接口数据... 已完成：33.1%
+2018-08-17 16:50:21,479 - requestData - INFO - request url(timeout = 30): http://120.209.138.229:3015/VixtelRest?subInterface=getAccessDataDetails&beginTime=1534348800&endTime=1534435200&timeInterval=86400&cityId=0&sourceNodeIds=&destNodeIds=&reportDirection=6&networkType=AccessNetwork
+2018-08-17 16:50:21,674 - analysisDate - ERROR - ['avgDelay = 5185.141691 not in range (0.0,1000.0)']
+2018-08-17 16:50:22,678 - operationMysql - INFO - Mysql connect success!
+2018-08-17 16:50:22,682 - operationMysql - INFO - Sql operation success!
+2018-08-17 16:50:22,683 - operationMysql - INFO - Mysql connect close!
+2018-08-17 16:50:22,683 - autoTest - INFO - 正在测试接口数据... 已完成：33.8%
+2018-08-17 16:50:22,686 - requestData - INFO - request url(timeout = 30): http://120.209.138.229:3015/VixtelRest?reportDirection=7&bCompare=true&subInterface=getAccessDataDetails&beginTime=1534348800&endTime=1534435200&timeInterval=86400&cityId=0&sourceNodeIds=&destNodeIds=&networkType=AccessNetwork
+2018-08-17 16:50:23,858 - operationMysql - INFO - Mysql connect success!
+2018-08-17 16:50:23,863 - operationMysql - INFO - Sql operation success!
+2018-08-17 16:50:23,863 - operationMysql - INFO - Mysql connect close!
+2018-08-17 16:50:23,864 - autoTest - INFO - 正在测试接口数据... 已完成：34.4%
+2018-08-17 16:50:23,866 - requestData - INFO - request url(timeout = 30): http://120.209.138.229:3015/VixtelRest?subInterface=getAreaDataDetails&beginTime=1534348800&endTime=1534435200&timeInterval=86400&cityId=0&sourceNodeIds=&destNodeIds=&reportDirection=6
+2018-08-17 16:50:24,077 - analysisDate - ERROR - ['avgDelay = 4646.839551 not in range (0.0,1000.0)']
+2018-08-17 16:50:25,081 - operationMysql - INFO - Mysql connect success!
+2018-08-17 16:50:25,087 - operationMysql - INFO - Sql operation success!
+2018-08-17 16:50:25,087 - operationMysql - INFO - Mysql connect close!
+2018-08-17 16:50:25,087 - autoTest - INFO - 正在测试接口数据... 已完成：35.1%
+2018-08-17 16:50:25,090 - requestData - INFO - request url(timeout = 30): http://120.209.138.229:3015/VixtelRest?reportDirection=7&bCompare=true&subInterface=getAreaDataDetails&beginTime=1534348800&endTime=1534435200&timeInterval=86400&cityId=0&sourceNodeIds=&destNodeIds=
+2018-08-17 16:50:26,255 - operationMysql - INFO - Mysql connect success!
+2018-08-17 16:50:26,261 - operationMysql - INFO - Sql operation success!
+2018-08-17 16:50:26,262 - operationMysql - INFO - Mysql connect close!
+2018-08-17 16:50:26,262 - autoTest - INFO - 正在测试接口数据... 已完成：35.7%
+2018-08-17 16:50:26,264 - requestData - INFO - request url(timeout = 30): http://120.209.138.229:3015/VixtelRest?subInterface=getTestAlertDetails&alertId=527
+2018-08-17 16:50:27,414 - operationMysql - INFO - Mysql connect success!
+2018-08-17 16:50:27,420 - operationMysql - INFO - Sql operation success!
+2018-08-17 16:50:27,420 - operationMysql - INFO - Mysql connect close!
+2018-08-17 16:50:27,420 - autoTest - INFO - 正在测试接口数据... 已完成：36.4%
+2018-08-17 16:50:27,423 - requestData - INFO - request url(timeout = 30): http://120.209.138.229:3015/VixtelRest?subInterface=getGroupDataDetails&beginTime=1534348800&endTime=1534435200&city=0&sourceNodeIds=&destNodeIds=&reportDirection=6
+2018-08-17 16:50:28,651 - operationMysql - INFO - Mysql connect success!
+2018-08-17 16:50:28,657 - operationMysql - INFO - Sql operation success!
+2018-08-17 16:50:28,657 - operationMysql - INFO - Mysql connect close!
+2018-08-17 16:50:28,658 - autoTest - INFO - 正在测试接口数据... 已完成：37.0%
+2018-08-17 16:50:28,660 - requestData - INFO - request url(timeout = 30): http://120.209.138.229:3015/VixtelRest?beginTime=1534348800&endTime=1534435200&reportDirection=6&type=cmnet&bCompare=false&subInterface=getCmnetDataDetails&city=&sourceNodeIds=&destNodeIds=
+2018-08-17 16:50:28,904 - analysisDate - ERROR - 0
+2018-08-17 16:50:29,918 - operationMysql - INFO - Mysql connect success!
+2018-08-17 16:50:29,924 - operationMysql - INFO - Sql operation success!
+2018-08-17 16:50:29,924 - operationMysql - INFO - Mysql connect close!
+2018-08-17 16:50:29,924 - autoTest - INFO - 正在测试接口数据... 已完成：37.7%
+2018-08-17 16:50:29,927 - requestData - INFO - request url(timeout = 30): http://120.209.138.229:3015/VixtelRest?beginTime=1534348800&endTime=1534435200&reportDirection=6&type=third&bCompare=false&subInterface=getCmnetDataDetails&city=&sourceNodeIds=&destNodeIds=
+2018-08-17 16:50:30,156 - analysisDate - ERROR - 0
+2018-08-17 16:50:31,170 - operationMysql - INFO - Mysql connect success!
+2018-08-17 16:50:31,176 - operationMysql - INFO - Sql operation success!
+2018-08-17 16:50:31,176 - operationMysql - INFO - Mysql connect close!
+2018-08-17 16:50:31,176 - autoTest - INFO - 正在测试接口数据... 已完成：38.3%
+2018-08-17 16:50:31,179 - requestData - INFO - request url(timeout = 30): http://120.209.138.229:3015/VixtelRest?beginTime=1534348800&endTime=1534435200&reportDirection=2&type=cmnet&bCompare=true&subInterface=getCmnetDataDetails&city=&sourceNodeIds=&destNodeIds=
+2018-08-17 16:50:31,351 - analysisDate - ERROR - 0
+2018-08-17 16:50:32,366 - operationMysql - INFO - Mysql connect success!
+2018-08-17 16:50:32,372 - operationMysql - INFO - Sql operation success!
+2018-08-17 16:50:32,372 - operationMysql - INFO - Mysql connect close!
+2018-08-17 16:50:32,373 - autoTest - INFO - 正在测试接口数据... 已完成：39.0%
+2018-08-17 16:50:32,376 - requestData - INFO - request url(timeout = 30): http://120.209.138.229:3015/VixtelRest?beginTime=1534348800&endTime=1534435200&reportDirection=1&type=third&bCompare=true&subInterface=getCmnetDataDetails&city=&sourceNodeIds=&destNodeIds=
+2018-08-17 16:50:32,544 - analysisDate - ERROR - 0
+2018-08-17 16:50:33,560 - operationMysql - INFO - Mysql connect success!
+2018-08-17 16:50:33,566 - operationMysql - INFO - Sql operation success!
+2018-08-17 16:50:33,566 - operationMysql - INFO - Mysql connect close!
+2018-08-17 16:50:33,566 - autoTest - INFO - 正在测试接口数据... 已完成：39.6%
+2018-08-17 16:50:33,569 - requestData - INFO - request url(timeout = 30): http://120.209.138.229:3015/VixtelRest?subInterface=getDnsDataDetails&beginTime=1534348800&endTime=1534435200
+2018-08-17 16:50:34,776 - operationMysql - INFO - Mysql connect success!
+2018-08-17 16:50:34,782 - operationMysql - INFO - Sql operation success!
+2018-08-17 16:50:34,782 - operationMysql - INFO - Mysql connect close!
+2018-08-17 16:50:34,782 - autoTest - INFO - 正在测试接口数据... 已完成：40.3%
+2018-08-17 16:50:34,785 - requestData - INFO - request url(timeout = 30): http://120.209.138.229:3015/VixtelRest?subInterface=getCacheGainRatio&beginTime=1534348800&endTime=1534435200
+2018-08-17 16:50:34,964 - analysisDate - ERROR - 0
+2018-08-17 16:50:35,978 - operationMysql - INFO - Mysql connect success!
+2018-08-17 16:50:35,982 - operationMysql - INFO - Sql operation success!
+2018-08-17 16:50:35,982 - operationMysql - INFO - Mysql connect close!
+2018-08-17 16:50:35,982 - autoTest - INFO - 正在测试接口数据... 已完成：40.9%
+2018-08-17 16:50:35,985 - requestData - INFO - request url(timeout = 30): http://120.209.138.229:3015/VixtelRest?subInterface=getRadiusDataDetails&beginTime=1534348800&endTime=1534435200
+2018-08-17 16:50:36,160 - analysisDate - ERROR - 0
+2018-08-17 16:50:37,164 - operationMysql - INFO - Mysql connect success!
+2018-08-17 16:50:37,169 - operationMysql - INFO - Sql operation success!
+2018-08-17 16:50:37,170 - operationMysql - INFO - Mysql connect close!
+2018-08-17 16:50:37,170 - autoTest - INFO - 正在测试接口数据... 已完成：41.6%
+2018-08-17 16:50:37,173 - requestData - INFO - request url(timeout = 30): http://120.209.138.229:3015/VixtelRest?subInterface=getP2PTopTenDomain&beginTime=1534348800&endTime=1534435200&isDemo=false&type=FixedNet
+2018-08-17 16:50:38,327 - operationMysql - INFO - Mysql connect success!
+2018-08-17 16:50:38,333 - operationMysql - INFO - Sql operation success!
+2018-08-17 16:50:38,333 - operationMysql - INFO - Mysql connect close!
+2018-08-17 16:50:38,333 - autoTest - INFO - 正在测试接口数据... 已完成：42.2%
+2018-08-17 16:50:38,335 - requestData - INFO - request url(timeout = 30): http://120.209.138.229:3015/VixtelRest?subInterface=getP2PTopTenDomain&beginTime=1534348800&endTime=1534435200&isDemo=false&type=MobileNet
+2018-08-17 16:50:39,480 - operationMysql - INFO - Mysql connect success!
+2018-08-17 16:50:39,486 - operationMysql - INFO - Sql operation success!
+2018-08-17 16:50:39,486 - operationMysql - INFO - Mysql connect close!
+2018-08-17 16:50:39,486 - autoTest - INFO - 正在测试接口数据... 已完成：42.9%
+2018-08-17 16:50:39,489 - requestData - INFO - request url(timeout = 30): http://120.209.138.229:3015/VixtelRest?subInterface=getDataResult&beginTime=1534348800&endTime=1534435200&timeInterval=86400&cityId=0&sourceNodeIds=&destNodeIds=&reportDirection=6&businessType=web&networkType=AccessLayer
+2018-08-17 16:50:42,490 - operationMysql - INFO - Mysql connect success!
+2018-08-17 16:50:42,494 - operationMysql - INFO - Sql operation success!
+2018-08-17 16:50:42,494 - operationMysql - INFO - Mysql connect close!
+2018-08-17 16:50:42,495 - autoTest - INFO - 正在测试接口数据... 已完成：43.5%
+2018-08-17 16:50:42,497 - requestData - INFO - request url(timeout = 30): http://120.209.138.229:3015/VixtelRest?subInterface=getDataResult&beginTime=1534348800&endTime=1534435200&timeInterval=86400&cityId=0&sourceNodeIds=&destNodeIds=&reportDirection=6&businessType=web&networkType=ConvergenceLayer
+2018-08-17 16:50:45,653 - operationMysql - INFO - Mysql connect success!
+2018-08-17 16:50:45,658 - operationMysql - INFO - Sql operation success!
+2018-08-17 16:50:45,659 - operationMysql - INFO - Mysql connect close!
+2018-08-17 16:50:45,659 - autoTest - INFO - 正在测试接口数据... 已完成：44.2%
+2018-08-17 16:50:45,661 - requestData - INFO - request url(timeout = 30): http://120.209.138.229:3015/VixtelRest?subInterface=getDataResult&beginTime=1534348800&endTime=1534435200&timeInterval=86400&cityId=0&sourceNodeIds=&destNodeIds=&reportDirection=6&businessType=video&networkType=AccessLayer
+2018-08-17 16:50:47,246 - operationMysql - INFO - Mysql connect success!
+2018-08-17 16:50:47,252 - operationMysql - INFO - Sql operation success!
+2018-08-17 16:50:47,253 - operationMysql - INFO - Mysql connect close!
+2018-08-17 16:50:47,253 - autoTest - INFO - 正在测试接口数据... 已完成：44.8%
+2018-08-17 16:50:47,256 - requestData - INFO - request url(timeout = 30): http://120.209.138.229:3015/VixtelRest?subInterface=getDataResult&beginTime=1534348800&endTime=1534435200&timeInterval=86400&cityId=0&sourceNodeIds=&destNodeIds=&reportDirection=6&businessType=video&networkType=ConvergenceLayer
+2018-08-17 16:50:48,458 - operationMysql - INFO - Mysql connect success!
+2018-08-17 16:50:48,464 - operationMysql - INFO - Sql operation success!
+2018-08-17 16:50:48,464 - operationMysql - INFO - Mysql connect close!
+2018-08-17 16:50:48,464 - autoTest - INFO - 正在测试接口数据... 已完成：45.5%
+2018-08-17 16:50:48,468 - requestData - INFO - request url(timeout = 30): http://120.209.138.229:3015/VixtelRest?subInterface=getDataResult&beginTime=1534348800&endTime=1534435200&timeInterval=86400&cityId=0&sourceNodeIds=&destNodeIds=&reportDirection=6&businessType=download&networkType=AccessLayer
+2018-08-17 16:50:50,285 - operationMysql - INFO - Mysql connect success!
+2018-08-17 16:50:50,291 - operationMysql - INFO - Sql operation success!
+2018-08-17 16:50:50,291 - operationMysql - INFO - Mysql connect close!
+2018-08-17 16:50:50,292 - autoTest - INFO - 正在测试接口数据... 已完成：46.1%
+2018-08-17 16:50:50,295 - requestData - INFO - request url(timeout = 30): http://120.209.138.229:3015/VixtelRest?subInterface=getDataResult&beginTime=1534348800&endTime=1534435200&timeInterval=86400&cityId=0&sourceNodeIds=&destNodeIds=&reportDirection=6&businessType=download&networkType=ConvergenceLayer
+2018-08-17 16:50:51,590 - operationMysql - INFO - Mysql connect success!
+2018-08-17 16:50:51,597 - operationMysql - INFO - Sql operation success!
+2018-08-17 16:50:51,597 - operationMysql - INFO - Mysql connect close!
+2018-08-17 16:50:51,597 - autoTest - INFO - 正在测试接口数据... 已完成：46.8%
+2018-08-17 16:50:51,600 - requestData - INFO - request url(timeout = 30): http://120.209.138.229:3015/VixtelRest?bCompare=true&subInterface=getDataResult&beginTime=1534348800&endTime=1534435200&timeInterval=86400&cityId=0&sourceNodeIds=&destNodeIds=&reportDirection=7&businessType=web&networkType=AccessLayer
+2018-08-17 16:50:52,781 - operationMysql - INFO - Mysql connect success!
+2018-08-17 16:50:52,788 - operationMysql - INFO - Sql operation success!
+2018-08-17 16:50:52,788 - operationMysql - INFO - Mysql connect close!
+2018-08-17 16:50:52,788 - autoTest - INFO - 正在测试接口数据... 已完成：47.4%
+2018-08-17 16:50:52,790 - requestData - INFO - request url(timeout = 30): http://120.209.138.229:3015/VixtelRest?bCompare=true&subInterface=getDataResult&beginTime=1534348800&endTime=1534435200&timeInterval=86400&cityId=0&sourceNodeIds=&destNodeIds=&reportDirection=7&businessType=web&networkType=ConvergenceLayer
+2018-08-17 16:50:53,974 - operationMysql - INFO - Mysql connect success!
+2018-08-17 16:50:53,980 - operationMysql - INFO - Sql operation success!
+2018-08-17 16:50:53,980 - operationMysql - INFO - Mysql connect close!
+2018-08-17 16:50:53,980 - autoTest - INFO - 正在测试接口数据... 已完成：48.1%
+2018-08-17 16:50:53,983 - requestData - INFO - request url(timeout = 30): http://120.209.138.229:3015/VixtelRest?bCompare=true&subInterface=getDataResult&beginTime=1534348800&endTime=1534435200&timeInterval=86400&cityId=0&sourceNodeIds=&destNodeIds=&reportDirection=7&businessType=video&networkType=AccessLayer
+2018-08-17 16:50:54,168 - analysisDate - ERROR - ['Data is null']
+2018-08-17 16:50:55,172 - operationMysql - INFO - Mysql connect success!
+2018-08-17 16:50:55,178 - operationMysql - INFO - Sql operation success!
+2018-08-17 16:50:55,179 - operationMysql - INFO - Mysql connect close!
+2018-08-17 16:50:55,179 - autoTest - INFO - 正在测试接口数据... 已完成：48.7%
+2018-08-17 16:50:55,182 - requestData - INFO - request url(timeout = 30): http://120.209.138.229:3015/VixtelRest?bCompare=true&subInterface=getDataResult&beginTime=1534348800&endTime=1534435200&timeInterval=86400&cityId=0&sourceNodeIds=&destNodeIds=&reportDirection=7&businessType=video&networkType=ConvergenceLayer
+2018-08-17 16:50:55,386 - analysisDate - ERROR - ['Data is null']
+2018-08-17 16:50:56,400 - operationMysql - INFO - Mysql connect success!
+2018-08-17 16:50:56,407 - operationMysql - INFO - Sql operation success!
+2018-08-17 16:50:56,407 - operationMysql - INFO - Mysql connect close!
+2018-08-17 16:50:56,407 - autoTest - INFO - 正在测试接口数据... 已完成：49.4%
+2018-08-17 16:50:56,409 - requestData - INFO - request url(timeout = 30): http://120.209.138.229:3015/VixtelRest?bCompare=true&subInterface=getDataResult&beginTime=1534348800&endTime=1534435200&timeInterval=86400&cityId=0&sourceNodeIds=&destNodeIds=&reportDirection=7&businessType=download&networkType=AccessLayer
+2018-08-17 16:50:57,572 - operationMysql - INFO - Mysql connect success!
+2018-08-17 16:50:57,579 - operationMysql - INFO - Sql operation success!
+2018-08-17 16:50:57,579 - operationMysql - INFO - Mysql connect close!
+2018-08-17 16:50:57,579 - autoTest - INFO - 正在测试接口数据... 已完成：50.0%
+2018-08-17 16:50:57,582 - requestData - INFO - request url(timeout = 30): http://120.209.138.229:3015/VixtelRest?bCompare=true&subInterface=getDataResult&beginTime=1534348800&endTime=1534435200&timeInterval=86400&cityId=0&sourceNodeIds=&destNodeIds=&reportDirection=7&businessType=download&networkType=ConvergenceLayer
+2018-08-17 16:50:58,764 - operationMysql - INFO - Mysql connect success!
+2018-08-17 16:50:58,770 - operationMysql - INFO - Sql operation success!
+2018-08-17 16:50:58,771 - operationMysql - INFO - Mysql connect close!
+2018-08-17 16:50:58,771 - autoTest - INFO - 正在测试接口数据... 已完成：50.6%
+2018-08-17 16:50:58,773 - requestData - INFO - request url(timeout = 30): http://120.209.138.229:3015/VixtelRest?subInterface=getDataResult&beginTime=1534348800&endTime=1534435200&timeInterval=86400&cityId=0&sourceNodeIds=&destNodeIds=&reportDirection=6&businessType=game&networkType=ConvergenceLayer
+2018-08-17 16:51:00,188 - operationMysql - INFO - Mysql connect success!
+2018-08-17 16:51:00,194 - operationMysql - INFO - Sql operation success!
+2018-08-17 16:51:00,195 - operationMysql - INFO - Mysql connect close!
+2018-08-17 16:51:00,195 - autoTest - INFO - 正在测试接口数据... 已完成：51.3%
+2018-08-17 16:51:00,197 - requestData - INFO - request url(timeout = 30): http://120.209.138.229:3015/VixtelRest?bCompare=true&subInterface=getDataResult&beginTime=1534348800&endTime=1534435200&timeInterval=86400&cityId=0&sourceNodeIds=&destNodeIds=&reportDirection=7&businessType=game&networkType=ConvergenceLayer
+2018-08-17 16:51:01,357 - operationMysql - INFO - Mysql connect success!
+2018-08-17 16:51:01,363 - operationMysql - INFO - Sql operation success!
+2018-08-17 16:51:01,363 - operationMysql - INFO - Mysql connect close!
+2018-08-17 16:51:01,363 - autoTest - INFO - 正在测试接口数据... 已完成：51.9%
+2018-08-17 16:51:01,365 - requestData - INFO - request url(timeout = 30): http://120.209.138.229:3015/VixtelRest?subInterface=getQualityDataByCity&beginTime=1534348800&endTime=1534435200&city=0
+2018-08-17 16:51:02,541 - operationMysql - INFO - Mysql connect success!
+2018-08-17 16:51:02,547 - operationMysql - INFO - Sql operation success!
+2018-08-17 16:51:02,547 - operationMysql - INFO - Mysql connect close!
+2018-08-17 16:51:02,548 - autoTest - INFO - 正在测试接口数据... 已完成：52.6%
+2018-08-17 16:51:02,550 - requestData - INFO - request url(timeout = 30): http://120.209.138.229:3015/VixtelRest?subInterface=getTopPoorQualityData&beginTime=1534348800&endTime=1534435200&type=web&city=0
+2018-08-17 16:51:03,731 - operationMysql - INFO - Mysql connect success!
+2018-08-17 16:51:03,737 - operationMysql - INFO - Sql operation success!
+2018-08-17 16:51:03,738 - operationMysql - INFO - Mysql connect close!
+2018-08-17 16:51:03,738 - autoTest - INFO - 正在测试接口数据... 已完成：53.2%
+2018-08-17 16:51:03,741 - requestData - INFO - request url(timeout = 30): http://120.209.138.229:3015/VixtelRest?subInterface=getTopPoorQualityData&beginTime=1534348800&endTime=1534435200&type=video&city=0
+2018-08-17 16:51:03,932 - analysisDate - ERROR - ['Data is null']
+2018-08-17 16:51:04,958 - operationMysql - INFO - Mysql connect success!
+2018-08-17 16:51:04,964 - operationMysql - INFO - Sql operation success!
+2018-08-17 16:51:04,964 - operationMysql - INFO - Mysql connect close!
+2018-08-17 16:51:04,964 - autoTest - INFO - 正在测试接口数据... 已完成：53.9%
+2018-08-17 16:51:04,967 - requestData - INFO - request url(timeout = 30): http://120.209.138.229:3015/VixtelRest?subInterface=getTopPoorQualityData&beginTime=1534348800&endTime=1534435200&type=download&city=0
+2018-08-17 16:51:06,126 - operationMysql - INFO - Mysql connect success!
+2018-08-17 16:51:06,132 - operationMysql - INFO - Sql operation success!
+2018-08-17 16:51:06,133 - operationMysql - INFO - Mysql connect close!
+2018-08-17 16:51:06,133 - autoTest - INFO - 正在测试接口数据... 已完成：54.5%
+2018-08-17 16:51:06,135 - requestData - INFO - request url(timeout = 30): http://120.209.138.229:3015/VixtelRest?subInterface=getDataReportResult&graphId=347&testId=744&testType=1&start=0&limit=1000&reportDirection=7&exType=none&exBeginTime=0&exEndTime=0&beginTime=1534348800&endTime=1534435200&useSourceNode=true&useDestNode=true&timeInterval=86400&sourceNodeIds=&destNodeIds=&indexNames=lossPercent&indexTypes=AVG
+2018-08-17 16:51:07,282 - operationMysql - INFO - Mysql connect success!
+2018-08-17 16:51:07,284 - operationMysql - INFO - Sql operation failure!
+2018-08-17 16:51:07,284 - operationMysql - INFO - Mysql connect close!
+2018-08-17 16:51:07,285 - autoTest - INFO - 正在测试接口数据... 已完成：55.2%
+2018-08-17 16:51:07,287 - requestData - INFO - request url(timeout = 30): http://120.209.138.229:3015/VixtelRest?subInterface=getDataReportResult&graphId=347&testId=744&testType=1&start=0&limit=1000&reportDirection=7&exType=none&exBeginTime=0&exEndTime=0&beginTime=1534348800&endTime=1534435200&useSourceNode=true&useDestNode=true&timeInterval=86400&sourceNodeIds=&destNodeIds=&indexNames=avgDelay&indexTypes=AVG
+2018-08-17 16:51:08,455 - operationMysql - INFO - Mysql connect success!
+2018-08-17 16:51:08,456 - operationMysql - INFO - Sql operation failure!
+2018-08-17 16:51:08,457 - operationMysql - INFO - Mysql connect close!
+2018-08-17 16:51:08,457 - autoTest - INFO - 正在测试接口数据... 已完成：55.8%
+2018-08-17 16:51:08,460 - requestData - INFO - request url(timeout = 30): http://120.209.138.229:3015/VixtelRest?subInterface=getDataReportResult&graphId=347&testId=744&testType=1&start=0&limit=1000&reportDirection=7&exType=none&exBeginTime=0&exEndTime=0&beginTime=1534348800&endTime=1534435200&useSourceNode=true&useDestNode=true&timeInterval=86400&sourceNodeIds=&destNodeIds=&indexNames=avgJitter&indexTypes=AVG
+2018-08-17 16:51:09,633 - operationMysql - INFO - Mysql connect success!
+2018-08-17 16:51:09,635 - operationMysql - INFO - Sql operation failure!
+2018-08-17 16:51:09,635 - operationMysql - INFO - Mysql connect close!
+2018-08-17 16:51:09,636 - autoTest - INFO - 正在测试接口数据... 已完成：56.5%
+2018-08-17 16:51:09,638 - requestData - INFO - request url(timeout = 30): http://120.209.138.229:3015/VixtelRest?subInterface=getDataReportResult&graphId=317&testId=697&testType=1&start=0&limit=1000&reportDirection=7&exType=none&exBeginTime=0&exEndTime=0&beginTime=1534348800&endTime=1534435200&useSourceNode=true&useDestNode=true&timeInterval=86400&sourceNodeIds=&destNodeIds=&indexNames=lossPercent&indexTypes=AVG
+2018-08-17 16:51:10,802 - operationMysql - INFO - Mysql connect success!
+2018-08-17 16:51:10,804 - operationMysql - INFO - Sql operation failure!
+2018-08-17 16:51:10,804 - operationMysql - INFO - Mysql connect close!
+2018-08-17 16:51:10,804 - autoTest - INFO - 正在测试接口数据... 已完成：57.1%
+2018-08-17 16:51:10,807 - requestData - INFO - request url(timeout = 30): http://120.209.138.229:3015/VixtelRest?subInterface=getDataReportResult&graphId=317&testId=697&testType=1&start=0&limit=1000&reportDirection=7&exType=none&exBeginTime=0&exEndTime=0&beginTime=1534348800&endTime=1534435200&useSourceNode=true&useDestNode=true&timeInterval=86400&sourceNodeIds=&destNodeIds=&indexNames=avgDelay&indexTypes=AVG
+2018-08-17 16:51:11,975 - operationMysql - INFO - Mysql connect success!
+2018-08-17 16:51:11,977 - operationMysql - INFO - Sql operation failure!
+2018-08-17 16:51:11,977 - operationMysql - INFO - Mysql connect close!
+2018-08-17 16:51:11,977 - autoTest - INFO - 正在测试接口数据... 已完成：57.8%
+2018-08-17 16:51:11,980 - requestData - INFO - request url(timeout = 30): http://120.209.138.229:3015/VixtelRest?subInterface=getDataReportResult&graphId=317&testId=697&testType=1&start=0&limit=1000&reportDirection=7&exType=none&exBeginTime=0&exEndTime=0&beginTime=1534348800&endTime=1534435200&useSourceNode=true&useDestNode=true&timeInterval=86400&sourceNodeIds=&destNodeIds=&indexNames=avgJitter&indexTypes=AVG
+2018-08-17 16:51:13,128 - operationMysql - INFO - Mysql connect success!
+2018-08-17 16:51:13,130 - operationMysql - INFO - Sql operation failure!
+2018-08-17 16:51:13,131 - operationMysql - INFO - Mysql connect close!
+2018-08-17 16:51:13,131 - autoTest - INFO - 正在测试接口数据... 已完成：58.4%
+2018-08-17 16:51:13,133 - requestData - INFO - request url(timeout = 30): http://120.209.138.229:3015/VixtelRest?subInterface=getDataReportResult&graphId=347&testId=68620&testType=11&start=0&limit=1000&reportDirection=7&exType=none&exBeginTime=0&exEndTime=0&beginTime=1534348800&endTime=1534435200&useSourceNode=true&useDestNode=true&timeInterval=86400&sourceNodeIds=&destNodeIds=&indexNames=throughput&indexTypes=AVG
+2018-08-17 16:51:15,747 - operationMysql - INFO - Mysql connect success!
+2018-08-17 16:51:15,748 - operationMysql - INFO - Sql operation failure!
+2018-08-17 16:51:15,749 - operationMysql - INFO - Mysql connect close!
+2018-08-17 16:51:15,749 - autoTest - INFO - 正在测试接口数据... 已完成：59.1%
+2018-08-17 16:51:15,751 - requestData - INFO - request url(timeout = 30): http://120.209.138.229:3020/VixtelRest?subInterface=getQapTestData&beginTime=1534348800&endTime=1534435200&testId=&testFaultType=all
+2018-08-17 16:51:16,909 - operationMysql - INFO - Mysql connect success!
+2018-08-17 16:51:16,915 - operationMysql - INFO - Sql operation success!
+2018-08-17 16:51:16,915 - operationMysql - INFO - Mysql connect close!
+2018-08-17 16:51:16,915 - autoTest - INFO - 正在测试接口数据... 已完成：59.7%
+2018-08-17 16:51:16,918 - requestData - INFO - request url(timeout = 30): http://120.209.138.229:3020/VixtelRest?subInterface=getQapTestResultList&beginTime=1534348800&endTime=1534435200&testId=&testFaultType=&page=1&start=0&limit=6
+2018-08-17 16:51:18,053 - operationMysql - INFO - Mysql connect success!
+2018-08-17 16:51:18,059 - operationMysql - INFO - Sql operation success!
+2018-08-17 16:51:18,059 - operationMysql - INFO - Mysql connect close!
+2018-08-17 16:51:18,060 - autoTest - INFO - 正在测试接口数据... 已完成：60.4%
+2018-08-17 16:51:18,062 - requestData - INFO - request url(timeout = 30): http://120.209.138.229:3015/VixtelRest?subInterface=getP2PNewFlowTrendInfo&type=day
+2018-08-17 16:51:19,286 - operationMysql - INFO - Mysql connect success!
+2018-08-17 16:51:19,292 - operationMysql - INFO - Sql operation success!
+2018-08-17 16:51:19,292 - operationMysql - INFO - Mysql connect close!
+2018-08-17 16:51:19,293 - autoTest - INFO - 正在测试接口数据... 已完成：61.0%
+2018-08-17 16:51:19,295 - requestData - INFO - request url(timeout = 30): http://120.209.138.229:3015/VixtelRest?subInterface=getP2PInternetTrafficViewFlowInfo&type=all&startTime=1534348800
+2018-08-17 16:51:20,474 - operationMysql - INFO - Mysql connect success!
+2018-08-17 16:51:20,480 - operationMysql - INFO - Sql operation success!
+2018-08-17 16:51:20,480 - operationMysql - INFO - Mysql connect close!
+2018-08-17 16:51:20,480 - autoTest - INFO - 正在测试接口数据... 已完成：61.7%
+2018-08-17 16:51:20,482 - requestData - INFO - request url(timeout = 30): http://120.209.138.229:3015/VixtelRest?subInterface=getTopAppData
+2018-08-17 16:51:21,670 - operationMysql - INFO - Mysql connect success!
+2018-08-17 16:51:21,675 - operationMysql - INFO - Sql operation success!
+2018-08-17 16:51:21,676 - operationMysql - INFO - Mysql connect close!
+2018-08-17 16:51:21,676 - autoTest - INFO - 正在测试接口数据... 已完成：62.3%
+2018-08-17 16:51:21,678 - requestData - INFO - request url(timeout = 30): http://120.209.138.229:3015/VixtelRest?subInterface=getHighLoadDeviceData&beginTime=1534348800&endTime=1534435200&isDemo=false&cityId=all
+2018-08-17 16:51:21,863 - analysisDate - ERROR - ['Data is null']
+2018-08-17 16:51:22,866 - operationMysql - INFO - Mysql connect success!
+2018-08-17 16:51:22,872 - operationMysql - INFO - Sql operation success!
+2018-08-17 16:51:22,873 - operationMysql - INFO - Mysql connect close!
+2018-08-17 16:51:22,873 - autoTest - INFO - 正在测试接口数据... 已完成：63.0%
+2018-08-17 16:51:22,877 - requestData - INFO - request url(timeout = 30): http://120.209.138.229:3015/VixtelRest?subInterface=getBusinessFlowData
+2018-08-17 16:51:24,061 - operationMysql - INFO - Mysql connect success!
+2018-08-17 16:51:24,066 - operationMysql - INFO - Sql operation success!
+2018-08-17 16:51:24,066 - operationMysql - INFO - Mysql connect close!
+2018-08-17 16:51:24,067 - autoTest - INFO - 正在测试接口数据... 已完成：63.6%
+2018-08-17 16:51:24,069 - requestData - INFO - request url(timeout = 30): http://120.209.138.229:3015/VixtelRest?subInterface=getCostData&type=month
+2018-08-17 16:51:25,253 - operationMysql - INFO - Mysql connect success!
+2018-08-17 16:51:25,259 - operationMysql - INFO - Sql operation success!
+2018-08-17 16:51:25,259 - operationMysql - INFO - Mysql connect close!
+2018-08-17 16:51:25,260 - autoTest - INFO - 正在测试接口数据... 已完成：64.3%
+2018-08-17 16:51:25,262 - requestData - INFO - request url(timeout = 30): http://120.209.138.229:3013/getP2PUserFlowData?startTime=1534348800&endTime=1534435200&topData=true
+2018-08-17 16:51:26,440 - operationMysql - INFO - Mysql connect success!
+2018-08-17 16:51:26,446 - operationMysql - INFO - Sql operation success!
+2018-08-17 16:51:26,446 - operationMysql - INFO - Mysql connect close!
+2018-08-17 16:51:26,447 - autoTest - INFO - 正在测试接口数据... 已完成：64.9%
+2018-08-17 16:51:26,449 - requestData - INFO - request url(timeout = 30): http://120.209.138.229:3013/getP2PUserFlow?isDemo=false&startTime=1534348800&endTime=1534435200&city=All
+2018-08-17 16:51:27,670 - operationMysql - INFO - Mysql connect success!
+2018-08-17 16:51:27,675 - operationMysql - INFO - Sql operation success!
+2018-08-17 16:51:27,676 - operationMysql - INFO - Mysql connect close!
+2018-08-17 16:51:27,676 - autoTest - INFO - 正在测试接口数据... 已完成：65.6%
+2018-08-17 16:51:27,678 - requestData - INFO - request url(timeout = 30): http://120.209.138.229:3013/getP2PUserFlow?isDemo=false&startTime=1534348800&endTime=1534435200&city=1
+2018-08-17 16:51:28,823 - operationMysql - INFO - Mysql connect success!
+2018-08-17 16:51:28,829 - operationMysql - INFO - Sql operation success!
+2018-08-17 16:51:28,829 - operationMysql - INFO - Mysql connect close!
+2018-08-17 16:51:28,830 - autoTest - INFO - 正在测试接口数据... 已完成：66.2%
+2018-08-17 16:51:28,832 - requestData - INFO - request url(timeout = 30): http://120.209.138.229:3013/getP2PUserFlow?isDemo=false&startTime=1534348800&endTime=1534435200&city=2
+2018-08-17 16:51:30,044 - operationMysql - INFO - Mysql connect success!
+2018-08-17 16:51:30,050 - operationMysql - INFO - Sql operation success!
+2018-08-17 16:51:30,051 - operationMysql - INFO - Mysql connect close!
+2018-08-17 16:51:30,051 - autoTest - INFO - 正在测试接口数据... 已完成：66.9%
+2018-08-17 16:51:30,053 - requestData - INFO - request url(timeout = 30): http://120.209.138.229:3013/getP2PUserFlow?isDemo=false&startTime=1534348800&endTime=1534435200&city=3
+2018-08-17 16:51:31,241 - operationMysql - INFO - Mysql connect success!
+2018-08-17 16:51:31,247 - operationMysql - INFO - Sql operation success!
+2018-08-17 16:51:31,248 - operationMysql - INFO - Mysql connect close!
+2018-08-17 16:51:31,248 - autoTest - INFO - 正在测试接口数据... 已完成：67.5%
+2018-08-17 16:51:31,250 - requestData - INFO - request url(timeout = 30): http://120.209.138.229:3013/getP2PUserFlow?isDemo=false&startTime=1534348800&endTime=1534435200&city=4
+2018-08-17 16:51:32,442 - operationMysql - INFO - Mysql connect success!
+2018-08-17 16:51:32,447 - operationMysql - INFO - Sql operation success!
+2018-08-17 16:51:32,448 - operationMysql - INFO - Mysql connect close!
+2018-08-17 16:51:32,448 - autoTest - INFO - 正在测试接口数据... 已完成：68.2%
+2018-08-17 16:51:32,450 - requestData - INFO - request url(timeout = 30): http://120.209.138.229:3013/getP2PUserFlow?isDemo=false&startTime=1534348800&endTime=1534435200&city=5
+2018-08-17 16:51:33,624 - operationMysql - INFO - Mysql connect success!
+2018-08-17 16:51:33,630 - operationMysql - INFO - Sql operation success!
+2018-08-17 16:51:33,630 - operationMysql - INFO - Mysql connect close!
+2018-08-17 16:51:33,630 - autoTest - INFO - 正在测试接口数据... 已完成：68.8%
+2018-08-17 16:51:33,633 - requestData - INFO - request url(timeout = 30): http://120.209.138.229:3013/getP2PUserFlow?isDemo=false&startTime=1534348800&endTime=1534435200&city=6
+2018-08-17 16:51:34,781 - operationMysql - INFO - Mysql connect success!
+2018-08-17 16:51:34,787 - operationMysql - INFO - Sql operation success!
+2018-08-17 16:51:34,787 - operationMysql - INFO - Mysql connect close!
+2018-08-17 16:51:34,787 - autoTest - INFO - 正在测试接口数据... 已完成：69.5%
+2018-08-17 16:51:34,789 - requestData - INFO - request url(timeout = 30): http://120.209.138.229:3013/getP2PUserFlow?isDemo=false&startTime=1534348800&endTime=1534435200&city=7
+2018-08-17 16:51:35,997 - operationMysql - INFO - Mysql connect success!
+2018-08-17 16:51:36,003 - operationMysql - INFO - Sql operation success!
+2018-08-17 16:51:36,003 - operationMysql - INFO - Mysql connect close!
+2018-08-17 16:51:36,004 - autoTest - INFO - 正在测试接口数据... 已完成：70.1%
+2018-08-17 16:51:36,006 - requestData - INFO - request url(timeout = 30): http://120.209.138.229:3013/getP2PUserFlow?isDemo=false&startTime=1534348800&endTime=1534435200&city=8
+2018-08-17 16:51:37,170 - operationMysql - INFO - Mysql connect success!
+2018-08-17 16:51:37,176 - operationMysql - INFO - Sql operation success!
+2018-08-17 16:51:37,177 - operationMysql - INFO - Mysql connect close!
+2018-08-17 16:51:37,177 - autoTest - INFO - 正在测试接口数据... 已完成：70.8%
+2018-08-17 16:51:37,179 - requestData - INFO - request url(timeout = 30): http://120.209.138.229:3013/getP2PUserFlow?isDemo=false&startTime=1534348800&endTime=1534435200&city=9
+2018-08-17 16:51:38,383 - operationMysql - INFO - Mysql connect success!
+2018-08-17 16:51:38,388 - operationMysql - INFO - Sql operation success!
+2018-08-17 16:51:38,389 - operationMysql - INFO - Mysql connect close!
+2018-08-17 16:51:38,389 - autoTest - INFO - 正在测试接口数据... 已完成：71.4%
+2018-08-17 16:51:38,391 - requestData - INFO - request url(timeout = 30): http://120.209.138.229:3013/getP2PUserFlow?isDemo=false&startTime=1534348800&endTime=1534435200&city=10
+2018-08-17 16:51:39,601 - operationMysql - INFO - Mysql connect success!
+2018-08-17 16:51:39,607 - operationMysql - INFO - Sql operation success!
+2018-08-17 16:51:39,608 - operationMysql - INFO - Mysql connect close!
+2018-08-17 16:51:39,608 - autoTest - INFO - 正在测试接口数据... 已完成：72.1%
+2018-08-17 16:51:39,610 - requestData - INFO - request url(timeout = 30): http://120.209.138.229:3013/getP2PUserFlow?isDemo=false&startTime=1534348800&endTime=1534435200&city=11
+2018-08-17 16:51:40,762 - operationMysql - INFO - Mysql connect success!
+2018-08-17 16:51:40,768 - operationMysql - INFO - Sql operation success!
+2018-08-17 16:51:40,769 - operationMysql - INFO - Mysql connect close!
+2018-08-17 16:51:40,769 - autoTest - INFO - 正在测试接口数据... 已完成：72.7%
+2018-08-17 16:51:40,771 - requestData - INFO - request url(timeout = 30): http://120.209.138.229:3013/getP2PUserFlow?isDemo=false&startTime=1534348800&endTime=1534435200&city=12
+2018-08-17 16:51:41,957 - operationMysql - INFO - Mysql connect success!
+2018-08-17 16:51:41,963 - operationMysql - INFO - Sql operation success!
+2018-08-17 16:51:41,963 - operationMysql - INFO - Mysql connect close!
+2018-08-17 16:51:41,963 - autoTest - INFO - 正在测试接口数据... 已完成：73.4%
+2018-08-17 16:51:41,966 - requestData - INFO - request url(timeout = 30): http://120.209.138.229:3013/getP2PUserFlow?isDemo=false&startTime=1534348800&endTime=1534435200&city=13
+2018-08-17 16:51:43,156 - operationMysql - INFO - Mysql connect success!
+2018-08-17 16:51:43,161 - operationMysql - INFO - Sql operation success!
+2018-08-17 16:51:43,161 - operationMysql - INFO - Mysql connect close!
+2018-08-17 16:51:43,162 - autoTest - INFO - 正在测试接口数据... 已完成：74.0%
+2018-08-17 16:51:43,164 - requestData - INFO - request url(timeout = 30): http://120.209.138.229:3013/getP2PUserFlow?isDemo=false&startTime=1534348800&endTime=1534435200&city=14
+2018-08-17 16:51:44,325 - operationMysql - INFO - Mysql connect success!
+2018-08-17 16:51:44,331 - operationMysql - INFO - Sql operation success!
+2018-08-17 16:51:44,331 - operationMysql - INFO - Mysql connect close!
+2018-08-17 16:51:44,332 - autoTest - INFO - 正在测试接口数据... 已完成：74.7%
+2018-08-17 16:51:44,333 - requestData - INFO - request url(timeout = 30): http://120.209.138.229:3013/getP2PUserFlow?isDemo=false&startTime=1534348800&endTime=1534435200&city=15
+2018-08-17 16:51:45,506 - operationMysql - INFO - Mysql connect success!
+2018-08-17 16:51:45,512 - operationMysql - INFO - Sql operation success!
+2018-08-17 16:51:45,512 - operationMysql - INFO - Mysql connect close!
+2018-08-17 16:51:45,513 - autoTest - INFO - 正在测试接口数据... 已完成：75.3%
+2018-08-17 16:51:45,515 - requestData - INFO - request url(timeout = 30): http://120.209.138.229:3013/getP2PUserFlow?isDemo=false&startTime=1534348800&endTime=1534435200&city=17
+2018-08-17 16:51:46,691 - operationMysql - INFO - Mysql connect success!
+2018-08-17 16:51:46,697 - operationMysql - INFO - Sql operation success!
+2018-08-17 16:51:46,697 - operationMysql - INFO - Mysql connect close!
+2018-08-17 16:51:46,697 - autoTest - INFO - 正在测试接口数据... 已完成：76.0%
+2018-08-17 16:51:46,700 - requestData - INFO - request url(timeout = 30): http://120.209.138.229:3013/getP2PThirdAllLink?type=day
+2018-08-17 16:51:47,871 - operationMysql - INFO - Mysql connect success!
+2018-08-17 16:51:47,878 - operationMysql - INFO - Sql operation success!
+2018-08-17 16:51:47,878 - operationMysql - INFO - Mysql connect close!
+2018-08-17 16:51:47,878 - autoTest - INFO - 正在测试接口数据... 已完成：76.6%
+2018-08-17 16:51:47,881 - requestData - INFO - request url(timeout = 30): http://120.209.138.229:3015/VixtelRest?subInterface=getP2PComplaintStatusNew&beginTime=1534348800&endTime=1534435200&isDemo=1&cityId=0
+2018-08-17 16:51:49,053 - operationMysql - INFO - Mysql connect success!
+2018-08-17 16:51:49,059 - operationMysql - INFO - Sql operation success!
+2018-08-17 16:51:49,060 - operationMysql - INFO - Mysql connect close!
+2018-08-17 16:51:49,060 - autoTest - INFO - 正在测试接口数据... 已完成：77.3%
+2018-08-17 16:51:49,062 - requestData - INFO - request url(timeout = 30): http://120.209.138.229:3015/VixtelRest?subInterface=getP2PIssueStatusNew&beginTime=1534348800&endTime=1534435200&isDemo=1&cityId=0
+2018-08-17 16:51:50,230 - operationMysql - INFO - Mysql connect success!
+2018-08-17 16:51:50,236 - operationMysql - INFO - Sql operation success!
+2018-08-17 16:51:50,237 - operationMysql - INFO - Mysql connect close!
+2018-08-17 16:51:50,237 - autoTest - INFO - 正在测试接口数据... 已完成：77.9%
+2018-08-17 16:51:50,239 - requestData - INFO - request url(timeout = 30): http://120.209.138.229:3015/VixtelRest?subInterface=getUserNetData&beginTime=1534348800&endTime=1534435200&isDemo=1&cityId=0
+2018-08-17 16:51:51,418 - operationMysql - INFO - Mysql connect success!
+2018-08-17 16:51:51,424 - operationMysql - INFO - Sql operation success!
+2018-08-17 16:51:51,424 - operationMysql - INFO - Mysql connect close!
+2018-08-17 16:51:51,424 - autoTest - INFO - 正在测试接口数据... 已完成：78.6%
+2018-08-17 16:51:51,426 - requestData - INFO - request url(timeout = 30): http://120.209.138.229:3015/VixtelRest?subInterface=getP2PBroadbandInstallStatusNew&beginTime=1534348800&endTime=1534435200&isDemo=1&cityId=0
+2018-08-17 16:51:52,556 - operationMysql - INFO - Mysql connect success!
+2018-08-17 16:51:52,563 - operationMysql - INFO - Sql operation success!
+2018-08-17 16:51:52,563 - operationMysql - INFO - Mysql connect close!
+2018-08-17 16:51:52,563 - autoTest - INFO - 正在测试接口数据... 已完成：79.2%
+2018-08-17 16:51:52,566 - requestData - INFO - request url(timeout = 30): http://120.209.138.229:3015/VixtelRest?subInterface=getP2PBigComplaintsStatusNew&beginTime=1534348800&endTime=1534435200&isDemo=1&cityId=0
+2018-08-17 16:51:53,701 - operationMysql - INFO - Mysql connect success!
+2018-08-17 16:51:53,707 - operationMysql - INFO - Sql operation success!
+2018-08-17 16:51:53,707 - operationMysql - INFO - Mysql connect close!
+2018-08-17 16:51:53,708 - autoTest - INFO - 正在测试接口数据... 已完成：79.9%
+2018-08-17 16:51:53,710 - requestData - INFO - request url(timeout = 30): http://120.209.138.229:3015/VixtelRest?subInterface=getP2PComplaintsTypeStatus&beginTime=1534348800&endTime=1534435200&isDemo=1&cityId=0
+2018-08-17 16:51:54,853 - operationMysql - INFO - Mysql connect success!
+2018-08-17 16:51:54,859 - operationMysql - INFO - Sql operation success!
+2018-08-17 16:51:54,859 - operationMysql - INFO - Mysql connect close!
+2018-08-17 16:51:54,859 - autoTest - INFO - 正在测试接口数据... 已完成：80.5%
+2018-08-17 16:51:54,861 - requestData - INFO - request url(timeout = 30): http://120.209.138.229:3015/VixtelRest?subInterface=getP2PComplaintsReasonStatus&beginTime=1534348800&endTime=1534435200&isDemo=1
+2018-08-17 16:51:56,003 - operationMysql - INFO - Mysql connect success!
+2018-08-17 16:51:56,009 - operationMysql - INFO - Sql operation success!
+2018-08-17 16:51:56,009 - operationMysql - INFO - Mysql connect close!
+2018-08-17 16:51:56,010 - autoTest - INFO - 正在测试接口数据... 已完成：81.2%
+2018-08-17 16:51:56,012 - requestData - INFO - request url(timeout = 30): http://120.209.138.229:3015/VixtelRest?subInterface=getP2PComplaintsOfVillage&beginTime=1534348800&endTime=1534435200&isDemo=1&cityId=0
+2018-08-17 16:51:57,161 - operationMysql - INFO - Mysql connect success!
+2018-08-17 16:51:57,167 - operationMysql - INFO - Sql operation success!
+2018-08-17 16:51:57,167 - operationMysql - INFO - Mysql connect close!
+2018-08-17 16:51:57,167 - autoTest - INFO - 正在测试接口数据... 已完成：81.8%
+2018-08-17 16:51:57,170 - requestData - INFO - request url(timeout = 30): http://120.209.138.229:3015/VixtelRest?subInterface=getP2PComplaintsOfDevice&beginTime=1534348800&endTime=1534435200&isDemo=1&cityId=0
+2018-08-17 16:51:58,325 - operationMysql - INFO - Mysql connect success!
+2018-08-17 16:51:58,329 - operationMysql - INFO - Sql operation success!
+2018-08-17 16:51:58,329 - operationMysql - INFO - Mysql connect close!
+2018-08-17 16:51:58,330 - autoTest - INFO - 正在测试接口数据... 已完成：82.5%
+2018-08-17 16:51:58,332 - requestData - INFO - request url(timeout = 30): http://120.209.138.229:3015/VixtelRest?subInterface=getUserRateData&beginTime=1534348800&endTime=1534435200&isDemo=1&cityId=all
+2018-08-17 16:51:59,501 - operationMysql - INFO - Mysql connect success!
+2018-08-17 16:51:59,508 - operationMysql - INFO - Sql operation success!
+2018-08-17 16:51:59,508 - operationMysql - INFO - Mysql connect close!
+2018-08-17 16:51:59,509 - autoTest - INFO - 正在测试接口数据... 已完成：83.1%
+2018-08-17 16:51:59,511 - requestData - INFO - request url(timeout = 30): http://120.209.138.229:3019/getP2PComplaintTypeList?startTime=1534348800&endTime=1534435200&isDemo=1
+2018-08-17 16:52:00,682 - operationMysql - INFO - Mysql connect success!
+2018-08-17 16:52:00,688 - operationMysql - INFO - Sql operation success!
+2018-08-17 16:52:00,688 - operationMysql - INFO - Mysql connect close!
+2018-08-17 16:52:00,688 - autoTest - INFO - 正在测试接口数据... 已完成：83.8%
+2018-08-17 16:52:00,691 - requestData - INFO - request url(timeout = 30): http://120.209.138.229:3019/getP2PComplaintInfo?start=0&startTime=1534348800&endTime=1534435200&phenomena=&businessType=&customerType=&page=1&limit=12
+2018-08-17 16:52:00,861 - analysisDate - ERROR - ['Data is null']
+2018-08-17 16:52:01,887 - operationMysql - INFO - Mysql connect success!
+2018-08-17 16:52:01,892 - operationMysql - INFO - Sql operation success!
+2018-08-17 16:52:01,893 - operationMysql - INFO - Mysql connect close!
+2018-08-17 16:52:01,893 - autoTest - INFO - 正在测试接口数据... 已完成：84.4%
+2018-08-17 16:52:01,896 - requestData - INFO - request url(timeout = 30): http://120.209.138.229:3013/getP2PProjectAnalysis?startTime=1534348800&endTime=1534435200&isDemo=true&city=all&type=1
+2018-08-17 16:52:03,047 - operationMysql - INFO - Mysql connect success!
+2018-08-17 16:52:03,054 - operationMysql - INFO - Sql operation success!
+2018-08-17 16:52:03,054 - operationMysql - INFO - Mysql connect close!
+2018-08-17 16:52:03,054 - autoTest - INFO - 正在测试接口数据... 已完成：85.1%
+2018-08-17 16:52:03,056 - requestData - INFO - request url(timeout = 30): http://120.209.138.229:3013/getP2PProjectAnalysis?startTime=1534348800&endTime=1534435200&isDemo=true&city=all&type=2
+2018-08-17 16:52:04,216 - operationMysql - INFO - Mysql connect success!
+2018-08-17 16:52:04,222 - operationMysql - INFO - Sql operation success!
+2018-08-17 16:52:04,222 - operationMysql - INFO - Mysql connect close!
+2018-08-17 16:52:04,223 - autoTest - INFO - 正在测试接口数据... 已完成：85.7%
+2018-08-17 16:52:04,225 - requestData - INFO - request url(timeout = 30): http://120.209.138.229:3013/getP2PProjectAnalysis?startTime=1534348800&endTime=1534435200&isDemo=true&city=all&type=3
+2018-08-17 16:52:05,360 - operationMysql - INFO - Mysql connect success!
+2018-08-17 16:52:05,366 - operationMysql - INFO - Sql operation success!
+2018-08-17 16:52:05,366 - operationMysql - INFO - Mysql connect close!
+2018-08-17 16:52:05,367 - autoTest - INFO - 正在测试接口数据... 已完成：86.4%
+2018-08-17 16:52:05,369 - requestData - INFO - request url(timeout = 30): http://120.209.138.229:3013/getP2PProjectAnalysis?startTime=1534348800&endTime=1534435200&isDemo=true&city=all&type=4
+2018-08-17 16:52:06,480 - operationMysql - INFO - Mysql connect success!
+2018-08-17 16:52:06,486 - operationMysql - INFO - Sql operation success!
+2018-08-17 16:52:06,486 - operationMysql - INFO - Mysql connect close!
+2018-08-17 16:52:06,486 - autoTest - INFO - 正在测试接口数据... 已完成：87.0%
+2018-08-17 16:52:06,488 - requestData - INFO - request url(timeout = 30): http://120.209.138.229:3013/getP2PProjectAnalysis?startTime=1534348800&endTime=1534435200&isDemo=true&city=all&type=5
+2018-08-17 16:52:07,669 - operationMysql - INFO - Mysql connect success!
+2018-08-17 16:52:07,675 - operationMysql - INFO - Sql operation success!
+2018-08-17 16:52:07,675 - operationMysql - INFO - Mysql connect close!
+2018-08-17 16:52:07,675 - autoTest - INFO - 正在测试接口数据... 已完成：87.7%
+2018-08-17 16:52:07,678 - requestData - INFO - request url(timeout = 30): http://120.209.138.229:3013/getP2PProjectAnalysis?startTime=1534348800&endTime=1534435200&isDemo=true&city=0&type=1
+2018-08-17 16:52:08,897 - operationMysql - INFO - Mysql connect success!
+2018-08-17 16:52:08,902 - operationMysql - INFO - Sql operation success!
+2018-08-17 16:52:08,902 - operationMysql - INFO - Mysql connect close!
+2018-08-17 16:52:08,902 - autoTest - INFO - 正在测试接口数据... 已完成：88.3%
+2018-08-17 16:52:08,905 - requestData - INFO - request url(timeout = 30): http://120.209.138.229:3013/getP2PProjectAnalysis?startTime=1534348800&endTime=1534435200&isDemo=true&city=0&type=2
+2018-08-17 16:52:10,077 - operationMysql - INFO - Mysql connect success!
+2018-08-17 16:52:10,084 - operationMysql - INFO - Sql operation success!
+2018-08-17 16:52:10,084 - operationMysql - INFO - Mysql connect close!
+2018-08-17 16:52:10,084 - autoTest - INFO - 正在测试接口数据... 已完成：89.0%
+2018-08-17 16:52:10,086 - requestData - INFO - request url(timeout = 30): http://120.209.138.229:3013/getP2PProjectAnalysis?startTime=1534348800&endTime=1534435200&isDemo=true&city=0&type=3
+2018-08-17 16:52:11,291 - operationMysql - INFO - Mysql connect success!
+2018-08-17 16:52:11,296 - operationMysql - INFO - Sql operation success!
+2018-08-17 16:52:11,296 - operationMysql - INFO - Mysql connect close!
+2018-08-17 16:52:11,297 - autoTest - INFO - 正在测试接口数据... 已完成：89.6%
+2018-08-17 16:52:11,300 - requestData - INFO - request url(timeout = 30): http://120.209.138.229:3013/getP2PProjectAnalysis?startTime=1534348800&endTime=1534435200&isDemo=true&city=0&type=4
+2018-08-17 16:52:12,480 - operationMysql - INFO - Mysql connect success!
+2018-08-17 16:52:12,486 - operationMysql - INFO - Sql operation success!
+2018-08-17 16:52:12,486 - operationMysql - INFO - Mysql connect close!
+2018-08-17 16:52:12,487 - autoTest - INFO - 正在测试接口数据... 已完成：90.3%
+2018-08-17 16:52:12,489 - requestData - INFO - request url(timeout = 30): http://120.209.138.229:3013/getP2PProjectAnalysis?startTime=1534348800&endTime=1534435200&isDemo=true&city=0&type=5
+2018-08-17 16:52:13,699 - operationMysql - INFO - Mysql connect success!
+2018-08-17 16:52:13,705 - operationMysql - INFO - Sql operation success!
+2018-08-17 16:52:13,705 - operationMysql - INFO - Mysql connect close!
+2018-08-17 16:52:13,706 - autoTest - INFO - 正在测试接口数据... 已完成：90.9%
+2018-08-17 16:52:13,708 - requestData - INFO - request url(timeout = 30): http://120.209.138.229:3013/getP2PProjectAnalysisHistory?startTime=1534348800&endTime=1534435200&isDemo=true&city=0&type=1
+2018-08-17 16:52:13,864 - analysisDate - ERROR - ['Data is null']
+2018-08-17 16:52:14,867 - operationMysql - INFO - Mysql connect success!
+2018-08-17 16:52:14,872 - operationMysql - INFO - Sql operation success!
+2018-08-17 16:52:14,872 - operationMysql - INFO - Mysql connect close!
+2018-08-17 16:52:14,872 - autoTest - INFO - 正在测试接口数据... 已完成：91.6%
+2018-08-17 16:52:14,875 - requestData - INFO - request url(timeout = 30): http://120.209.138.229:3013/getP2PProjectAnalysisHistory?startTime=1534348800&endTime=1534435200&isDemo=true&city=0&type=2
+2018-08-17 16:52:15,059 - analysisDate - ERROR - ['Data is null']
+2018-08-17 16:52:16,085 - operationMysql - INFO - Mysql connect success!
+2018-08-17 16:52:16,090 - operationMysql - INFO - Sql operation success!
+2018-08-17 16:52:16,091 - operationMysql - INFO - Mysql connect close!
+2018-08-17 16:52:16,091 - autoTest - INFO - 正在测试接口数据... 已完成：92.2%
+2018-08-17 16:52:16,094 - requestData - INFO - request url(timeout = 30): http://120.209.138.229:3013/getP2PProjectAnalysisHistory?startTime=1534348800&endTime=1534435200&isDemo=true&city=0&type=3
+2018-08-17 16:52:16,246 - analysisDate - ERROR - ['Data is null']
+2018-08-17 16:52:17,261 - operationMysql - INFO - Mysql connect success!
+2018-08-17 16:52:17,268 - operationMysql - INFO - Sql operation success!
+2018-08-17 16:52:17,268 - operationMysql - INFO - Mysql connect close!
+2018-08-17 16:52:17,268 - autoTest - INFO - 正在测试接口数据... 已完成：92.9%
+2018-08-17 16:52:17,271 - requestData - INFO - request url(timeout = 30): http://120.209.138.229:3013/getP2PProjectAnalysisHistory?startTime=1534348800&endTime=1534435200&isDemo=true&city=0&type=4
+2018-08-17 16:52:17,447 - analysisDate - ERROR - ['Data is null']
+2018-08-17 16:52:18,461 - operationMysql - INFO - Mysql connect success!
+2018-08-17 16:52:18,466 - operationMysql - INFO - Sql operation success!
+2018-08-17 16:52:18,467 - operationMysql - INFO - Mysql connect close!
+2018-08-17 16:52:18,467 - autoTest - INFO - 正在测试接口数据... 已完成：93.5%
+2018-08-17 16:52:18,470 - requestData - INFO - request url(timeout = 30): http://120.209.138.229:3013/getP2PProjectAnalysisHistory?startTime=1534348800&endTime=1534435200&isDemo=true&city=0&type=5
+2018-08-17 16:52:18,649 - analysisDate - ERROR - ['Data is null']
+2018-08-17 16:52:19,664 - operationMysql - INFO - Mysql connect success!
+2018-08-17 16:52:19,670 - operationMysql - INFO - Sql operation success!
+2018-08-17 16:52:19,670 - operationMysql - INFO - Mysql connect close!
+2018-08-17 16:52:19,670 - autoTest - INFO - 正在测试接口数据... 已完成：94.2%
+2018-08-17 16:52:19,673 - requestData - INFO - request url(timeout = 30): http://120.209.138.229:3015/VixtelRest?subInterface=getLabelAndThirdBox&startTime=1534348800&fileType=1&cityId=0
+2018-08-17 16:52:20,864 - operationMysql - INFO - Mysql connect success!
+2018-08-17 16:52:20,870 - operationMysql - INFO - Sql operation success!
+2018-08-17 16:52:20,870 - operationMysql - INFO - Mysql connect close!
+2018-08-17 16:52:20,870 - autoTest - INFO - 正在测试接口数据... 已完成：94.8%
+2018-08-17 16:52:20,872 - requestData - INFO - request url(timeout = 30): http://120.209.138.229:3015/VixtelRest?subInterface=getLabelAndThirdBox&startTime=1534348800&fileType=2&cityId=0
+2018-08-17 16:52:22,070 - operationMysql - INFO - Mysql connect success!
+2018-08-17 16:52:22,075 - operationMysql - INFO - Sql operation success!
+2018-08-17 16:52:22,076 - operationMysql - INFO - Mysql connect close!
+2018-08-17 16:52:22,076 - autoTest - INFO - 正在测试接口数据... 已完成：95.5%
+2018-08-17 16:52:22,078 - requestData - INFO - request url(timeout = 30): http://120.209.138.229:3015/VixtelRest?subInterface=getLabelAndThirdBox&startTime=1534348800&fileType=1&cityId=all
+2018-08-17 16:52:23,239 - operationMysql - INFO - Mysql connect success!
+2018-08-17 16:52:23,244 - operationMysql - INFO - Sql operation success!
+2018-08-17 16:52:23,245 - operationMysql - INFO - Mysql connect close!
+2018-08-17 16:52:23,245 - autoTest - INFO - 正在测试接口数据... 已完成：96.1%
+2018-08-17 16:52:23,248 - requestData - INFO - request url(timeout = 30): http://120.209.138.229:3015/VixtelRest?subInterface=getLabelAndThirdBox&startTime=1534348800&fileType=2&cityId=all
+2018-08-17 16:52:24,400 - operationMysql - INFO - Mysql connect success!
+2018-08-17 16:52:24,406 - operationMysql - INFO - Sql operation success!
+2018-08-17 16:52:24,406 - operationMysql - INFO - Mysql connect close!
+2018-08-17 16:52:24,406 - autoTest - INFO - 正在测试接口数据... 已完成：96.8%
+2018-08-17 16:52:24,409 - requestData - INFO - request url(timeout = 30): http://120.209.138.229:3015/VixtelRest?subInterface=getLabelSubscribersDetail&beginTime=1534348800&isOpenOTT=0&cityId=all&page=1&start=0&limit=16
+2018-08-17 16:52:24,567 - analysisDate - ERROR - ['Data is null']
+2018-08-17 16:52:25,582 - operationMysql - INFO - Mysql connect success!
+2018-08-17 16:52:25,587 - operationMysql - INFO - Sql operation success!
+2018-08-17 16:52:25,587 - operationMysql - INFO - Mysql connect close!
+2018-08-17 16:52:25,588 - autoTest - INFO - 正在测试接口数据... 已完成：97.4%
+2018-08-17 16:52:25,591 - requestData - INFO - request url(timeout = 30): http://120.209.138.229:3015/VixtelRest?subInterface=getThirdBoxUserFlowDetail&beginTime=1534348800&isOpenOTT=0&cityId=all&boxType=0&page=1&start=0&limit=16
+2018-08-17 16:52:26,774 - operationMysql - INFO - Mysql connect success!
+2018-08-17 16:52:26,780 - operationMysql - INFO - Sql operation success!
+2018-08-17 16:52:26,780 - operationMysql - INFO - Mysql connect close!
+2018-08-17 16:52:26,781 - autoTest - INFO - 正在测试接口数据... 已完成：98.1%
+2018-08-17 16:52:26,783 - requestData - INFO - request url(timeout = 5): http://112.29.153.38:3017/getFaultResultInfo?page=1&start=0&limit=16
+2018-08-17 16:52:26,895 - analysisDate - ERROR - ['Data is null']
+2018-08-17 16:52:27,910 - operationMysql - INFO - Mysql connect success!
+2018-08-17 16:52:27,916 - operationMysql - INFO - Sql operation success!
+2018-08-17 16:52:27,916 - operationMysql - INFO - Mysql connect close!
+2018-08-17 16:52:27,917 - autoTest - INFO - 正在测试接口数据... 已完成：98.7%
+2018-08-17 16:52:27,920 - requestData - INFO - request url(timeout = 5): http://112.29.153.38:3017/getFaultResultClassify?begintime=1534348800&endTime=1534435200&caller=0
+2018-08-17 16:52:28,002 - analysisDate - ERROR - ['Data is null']
+2018-08-17 16:52:29,006 - operationMysql - INFO - Mysql connect success!
+2018-08-17 16:52:29,012 - operationMysql - INFO - Sql operation success!
+2018-08-17 16:52:29,012 - operationMysql - INFO - Mysql connect close!
+2018-08-17 16:52:29,013 - autoTest - INFO - 正在测试接口数据... 已完成：99.4%
+2018-08-17 16:52:29,015 - requestData - INFO - request url(timeout = 5): http://112.29.153.38:3017/getQoePoorQualityTop100?begintime=1534348800&endTime=1534435200&website=&page=1&start=0&limit=10
+2018-08-17 16:52:30,143 - operationMysql - INFO - Mysql connect success!
+2018-08-17 16:52:30,149 - operationMysql - INFO - Sql operation success!
+2018-08-17 16:52:30,149 - operationMysql - INFO - Mysql connect close!
+2018-08-17 16:52:30,149 - autoTest - INFO - 接口测试完成！
+2018-08-17 16:52:30,169 - autoTest - INFO - 保存测试结果报表：C:\Users\Tong\Documents\AutoTest(Cross-Platform)\Results\\Result\2018-08-17 16.xls
+2018-08-17 16:52:33,362 - sendMail - INFO - 邮件发送成功
+2018-08-17 16:52:33,364 - main - INFO - 测试完成，退出主线程

@@ -1,0 +1,160 @@
+import intervals
+import Codes.Tools.readExcel as readExcel
+import itertools
+import Codes.Script.dynamicParameter as dynamicParameter
+import Codes.Tools.writeLog as writeLog
+
+
+class getValues:
+    interface_list = []
+    work_book = ''
+    o = ''
+
+    def __init__(self, filepath):
+        self.o = readExcel.readExcel(filepath)
+        self.work_book = self.o.excelfile
+        self.logger = writeLog.writeLogger(loglevel=4, logger="getValues")
+
+    def load_str_range(self, srange):
+        range_temp = srange[1:-1]
+        range_list = range_temp.split(',')
+        return range_list
+
+    def load_row(self, ws, row):
+        item = {}
+        for index_col in range(0, ws.ncols):
+            if index_col == 0:  # id
+                item['id'] = ws.cell(row, index_col).value
+            elif index_col == 1:  # 接口名称
+                item['name'] = ws.cell(row, index_col).value
+            elif index_col == 2:  # 接口英文名称
+                item['name_en'] = ws.cell(row, index_col).value
+            elif index_col == 3:  # 调用方法
+                item['operation'] = ws.cell(row, index_col).value
+            elif index_col == 4:  # 超时
+                item['overtime'] = ws.cell(row, index_col).value
+            elif index_col == 5:  # 接口URL
+                item['url'] = ws.cell(row, index_col).value
+            elif index_col == 6:  # 参数
+                arg_dict = {}
+                arg_value = ws.cell(row, index_col).value
+                arg_value = ''.join(arg_value.split())
+                arg_list = arg_value.split(',')
+                for i in range(0, len(arg_list)):
+                    temp_list = arg_list[i].split('=')
+                    if len(temp_list) > 1:
+                        # arg_values = temp_list[1].split('/')
+                        # arg_dict[temp_list[0]] = arg_values
+                        arg_dict[temp_list[0]] = temp_list[1]
+                    else:
+                        arg_dict[temp_list[0]] = ''
+                item['arg_dict'] = arg_dict
+            elif index_col == 7:  # 开始时间偏移量
+                item['begin_offset'] = ws.cell(row, index_col).value
+            elif index_col == 8:  # 结束时间偏移量
+                item['end_offset'] = ws.cell(row, index_col).value
+            elif index_col == 9:  # 参数范围
+                range_item = ws.cell(row, index_col).value
+                range_dict = {}
+                if range_item:
+                    # 按分号分开成几部分
+                    range_list = range_item.split(';')
+                    for i in range(0, len(range_list)):
+                        # 每部分内部再按照冒号分开
+                        range_temp = range_list[i].split(':')
+                        if len(range_temp) > 1:
+                            srange = ''.join(range_temp[1].split())
+                            if srange[0] == '{':
+                                range_dict[range_temp[0]] = self.load_str_range(srange)
+                            elif srange[0] == '[' or srange[0] == '(':
+                                range_dict[range_temp[0]] = intervals.from_string(srange, float)
+                        else:
+                            range_dict[range_temp[0]] = ''
+                item['range_dict'] = range_dict
+        if item:
+            item['module'] = ws.name
+        return item
+
+    def getparameter(self, row_data):
+        arg_dict = row_data['arg_dict']
+        if 'cityId' in arg_dict:
+            return self.geturlparameter(row_data)
+
+        data_list = []
+        item = {}
+        for key in row_data:
+            if key == 'arg_dict':
+                arg_dict_temp = {}
+                for arg_key in arg_dict:
+                    arg_dict_temp[arg_key] = arg_dict[arg_key].split('/')
+                item[key] = arg_dict_temp
+            else:
+                item[key] = row_data[key]
+        data_list.append(item)
+        return data_list
+
+    def geturlparameter(self, row_data):
+        data_list = []
+        arg_dict = row_data['arg_dict']
+        city_list = arg_dict['cityId'].split('/')
+        for i in range(0, len(city_list)):
+            item = {}
+            for key in row_data:
+                if key == 'arg_dict':
+                    arg_dict_temp = {}
+                    for arg_key in arg_dict:
+                        if arg_key == 'cityId':
+                            city_list_temp = []
+                            city_list_temp.append(city_list[i])
+                            arg_dict_temp[arg_key] = city_list_temp
+                        else:
+                            arg_value = arg_dict[arg_key]
+                            if arg_value == 'interfaceurl':
+                                dp_obj = dynamicParameter.DynamicParameter()
+                                if arg_key == 'sourceNodeIds':
+                                    arg_dict_temp[arg_key] = dp_obj.get_sourceNodeId(dp_obj.cityid2name(city_list[i]))
+                                elif arg_key == 'destNodeIds':
+                                    arg_dict_temp[arg_key] = dp_obj.get_destNodeId(dp_obj.cityid2name(city_list[i]))
+                                else:
+                                    arg_dict_temp[arg_key] = arg_dict[arg_key]
+                            else:
+                                arg_dict_temp[arg_key] = arg_value.split('/')  # 参数中 key 对应的 value 全部用 list 保存，便于之后做笛卡尔积
+                    item[key] = arg_dict_temp
+                else:
+                    item[key] = row_data[key]
+            data_list.append(item)
+        return data_list
+
+    def analysisrow(self, row_data):
+        data_list = []
+        arg_dict = row_data['arg_dict']
+        arg_list = []
+        for arg_key in arg_dict:
+            arg_list.append(arg_dict[arg_key])
+        for x in itertools.product(*arg_list):
+            item = {}
+            for key in row_data:
+                if key == 'arg_dict':
+                    item[key] = dict(zip(arg_dict.keys(), x))
+                else:
+                    item[key] = row_data[key]
+            data_list.append(item)
+        return data_list
+
+    def load_config(self):
+        for sheetname in self.work_book.sheet_names():
+            ws = self.work_book.sheet_by_name(sheetname)
+            self.logger.info('Loading sheet ' + sheetname)
+            for index_row in range(1, ws.nrows):
+                self.logger.info('Loading row :' + str(index_row))
+                item = self.load_row(ws, index_row)
+                if item:
+                    item_list_temp = self.getparameter(item)
+                    for i in range(0, len(item_list_temp)):
+                        item_list = self.analysisrow(item_list_temp[i])
+                        self.interface_list.extend(item_list)
+        self.logger.info('Load completion')
+
+    def clear(self):
+        self.interface_list.clear()
+        self.logger.clear()
